@@ -6,12 +6,15 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using Tera.Game;
+using Tera.DamageMeter;
 using Tera.Game.Messages;
 
 namespace Tera.DamageMeter
 {
     public class DamageTracker : IEnumerable<PlayerInfo>
     {
+        public bool OnlyBosses { get; set; }
+
         readonly Dictionary<Player, PlayerInfo> _statsByUser = new Dictionary<Player, PlayerInfo>();
         public DateTime? FirstAttack { get; private set; }
         public DateTime? LastAttack { get; private set; }
@@ -25,10 +28,11 @@ namespace Tera.DamageMeter
 
         }
 
-        public DamageTracker()
+        public DamageTracker(bool onlyboss)
         {
             TotalDealt = new SkillStats();
             TotalReceived = new SkillStats();
+            OnlyBosses = onlyboss;
         }
 
         private PlayerInfo GetOrCreate(Player player)
@@ -75,6 +79,18 @@ namespace Tera.DamageMeter
             var result = new SkillStats();
             if (message.Amount == 0)
                 return result;
+
+            /// Fix counting self-damage, such as Death from above & Command: Self-destruct 
+            if ((message.Source.RootOwner == message.Target.RootOwner) && (message.Damage > 0))
+                return result;
+
+            /// not count bosses
+            NpcEntity npctarget = message.Target as NpcEntity;
+            if ((npctarget != null)&& OnlyBosses) { 
+                if (!npctarget.Info.Boss)
+                    return result;
+
+            }
 
             result.Damage = message.Damage;
             result.Heal = message.Heal;

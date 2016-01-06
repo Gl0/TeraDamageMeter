@@ -39,6 +39,7 @@ namespace Tera.DamageMeter
             this.OkButton = new System.Windows.Forms.Button();
             this.SettingsTabs = new System.Windows.Forms.TabControl();
             this.GeneralTab = new System.Windows.Forms.TabPage();
+            this.OnlyBosses = new System.Windows.Forms.CheckBox();
             this.label4 = new System.Windows.Forms.Label();
             this.BufferSizeComboBox = new System.Windows.Forms.ComboBox();
             this.label2 = new System.Windows.Forms.Label();
@@ -128,6 +129,7 @@ namespace Tera.DamageMeter
             // 
             // GeneralTab
             // 
+            this.GeneralTab.Controls.Add(this.OnlyBosses);
             this.GeneralTab.Controls.Add(this.label4);
             this.GeneralTab.Controls.Add(this.BufferSizeComboBox);
             this.GeneralTab.Controls.Add(this.label2);
@@ -140,6 +142,16 @@ namespace Tera.DamageMeter
             this.GeneralTab.TabIndex = 1;
             this.GeneralTab.Text = "General";
             this.GeneralTab.UseVisualStyleBackColor = true;
+            // 
+            // OnlyBosses
+            // 
+            this.OnlyBosses.AutoSize = true;
+            this.OnlyBosses.Location = new System.Drawing.Point(211, 16);
+            this.OnlyBosses.Name = "OnlyBosses";
+            this.OnlyBosses.Size = new System.Drawing.Size(146, 17);
+            this.OnlyBosses.TabIndex = 5;
+            this.OnlyBosses.Text = "Count only bosses";
+            this.OnlyBosses.UseVisualStyleBackColor = true;
             // 
             // label4
             // 
@@ -267,5 +279,6 @@ namespace Tera.DamageMeter
         private HotKeyControl ResetHotKeyBox;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.ComboBox BufferSizeComboBox;
+        private System.Windows.Forms.CheckBox OnlyBosses;
     }
 }

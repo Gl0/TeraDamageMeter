@@ -167,6 +167,8 @@ namespace Tera.DamageMeter
             }
             Opacity = _settings.Opacity;
             alwaysOnTopToolStripMenuItem.Checked = _settings.AlwaysOnTop;
+            if (_damageTracker != null)
+                _damageTracker.OnlyBosses = _settings.OnlyBosses;
 
             _pasteStatsHotKey.Key = HotKeyHelpers.FromString(_settings.HotKeys.PasteStats);
             _resetHotKey.Key = HotKeyHelpers.FromString(_settings.HotKeys.Reset);
@@ -198,7 +200,7 @@ namespace Tera.DamageMeter
             _teraData = _basicTeraData.DataForRegion(server.Region);
             _entityTracker = new EntityTracker(_teraData.NpcDatabase);
             _playerTracker = new PlayerTracker(_entityTracker);
-            _damageTracker = new DamageTracker();
+            _damageTracker = new DamageTracker(_settings.OnlyBosses);
             _messageFactory = new MessageFactory(_teraData.OpCodeNamer);
 
             Logger.Log(Text);
@@ -230,7 +232,7 @@ namespace Tera.DamageMeter
         {
             if (_server == null)
                 return;
-            _damageTracker = new DamageTracker();
+            _damageTracker = new DamageTracker(_settings.OnlyBosses);
         }
 
         private void RefershTimer_Tick(object sender, EventArgs e)

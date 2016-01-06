@@ -13,14 +13,14 @@ namespace Tera.Game
         public NpcDatabase(IEnumerable<NpcInfo> npcInfo)
         {
             _dictionary = npcInfo.ToDictionary(x => Tuple.Create(x.HuntingZoneId, x.TemplateId));
-            _getPlaceholder = Helpers.Memoize<Tuple<ushort, int>, NpcInfo>(x => new NpcInfo(x.Item1, x.Item2, string.Format("Npc {0} {1}", x.Item1, x.Item2)));
+            _getPlaceholder = Helpers.Memoize<Tuple<ushort, int>, NpcInfo>(x => new NpcInfo(x.Item1, x.Item2, false, 0, string.Format("Npc {0} {1}", x.Item1, x.Item2)));
         }
 
         private static IEnumerable<NpcInfo> LoadNpcInfos(string filename)
         {
             var lines = File.ReadLines(filename);
-            var listOfParts = lines.Select(s => s.Split(new[] { ' ' }, 3));
-            return listOfParts.Select(parts => new NpcInfo(ushort.Parse(parts[0]), int.Parse(parts[1]), parts[2]));
+            var listOfParts = lines.Select(s => s.Split(new[] { ' ' }, 5));
+            return listOfParts.Select(parts => new NpcInfo(ushort.Parse(parts[0]), int.Parse(parts[1]), bool.Parse(parts[2]), int.Parse(parts[3]), parts[4]));
         }
 
         public NpcDatabase(string filename)
