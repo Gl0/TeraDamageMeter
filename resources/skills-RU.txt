@@ -52,7 +52,21 @@
 11201 Common Common Warrior Комбо-атака XII
 11202 Common Common Warrior Комбо-атака XII
 11203 Common Common Warrior Комбо-атака XII
-20100 Common Common Warrior Уклонение
+11300 Common Common Warrior Комбо-атака XIII
+11301 Common Common Warrior Комбо-атака XIII
+11302 Common Common Warrior Комбо-атака XIII
+11303 Common Common Warrior Комбо-атака XIII
+11400 Common Common Warrior Комбо-атака XIV
+11401 Common Common Warrior Комбо-атака XIV
+11402 Common Common Warrior Комбо-атака XIV
+11403 Common Common Warrior Комбо-атака XIV
+11500 Common Common Warrior Комбо-атака XV
+11501 Common Common Warrior Комбо-атака XV
+11502 Common Common Warrior Комбо-атака XV
+11503 Common Common Warrior Комбо-атака XV
+20100 Common Common Warrior Уклонение I
+20200 Common Common Warrior Уклонение II
+20300 Common Common Warrior Уклонение III
 30100 Common Common Warrior Шквал ударов I
 30200 Common Common Warrior Шквал ударов II
 30300 Common Common Warrior Шквал ударов III
@@ -62,6 +76,9 @@
 30700 Common Common Warrior Шквал ударов VII
 30800 Common Common Warrior Шквал ударов VIII
 30900 Common Common Warrior Шквал ударов IX
+31000 Common Common Warrior Шквал ударов X
+31100 Common Common Warrior Шквал ударов XI
+31200 Common Common Warrior Шквал ударов XII
 40100 Common Common Warrior Град ударов I
 40130 Common Common Warrior Град ударов I
 40200 Common Common Warrior Град ударов II
@@ -84,6 +101,14 @@
 41030 Common Common Warrior Град ударов X
 41100 Common Common Warrior Град ударов XI
 41130 Common Common Warrior Град ударов XI
+41200 Common Common Warrior Град ударов XII
+41230 Common Common Warrior Град ударов XII
+41300 Common Common Warrior Град ударов XIII
+41330 Common Common Warrior Град ударов XIII
+41400 Common Common Warrior Град ударов XIV
+41430 Common Common Warrior Град ударов XIV
+41500 Common Common Warrior Град ударов XV
+41530 Common Common Warrior Град ударов XV
 50100 Common Common Warrior Боевой клич I
 50200 Common Common Warrior Боевой клич II
 50300 Common Common Warrior Боевой клич III
@@ -93,6 +118,10 @@
 50700 Common Common Warrior Боевой клич VII
 50800 Common Common Warrior Боевой клич VIII
 50900 Common Common Warrior Боевой клич IX
+51000 Common Common Warrior Боевой клич X
+51100 Common Common Warrior Боевой клич XI
+51200 Common Common Warrior Боевой клич XII
+51300 Common Common Warrior Боевой клич XIII
 80100 Common Common Warrior Штурмовая стойка I
 80150 Common Common Warrior Штурмовая стойка I
 80200 Common Common Warrior Штурмовая стойка II
@@ -101,6 +130,10 @@
 80350 Common Common Warrior Штурмовая стойка III
 80400 Common Common Warrior Штурмовая стойка IV
 80450 Common Common Warrior Штурмовая стойка IV
+80500 Common Common Warrior Штурмовая стойка V
+80550 Common Common Warrior Штурмовая стойка V
+80600 Common Common Warrior Штурмовая стойка VI
+80650 Common Common Warrior Штурмовая стойка VI
 90100 Common Common Warrior Защитная стойка I
 90150 Common Common Warrior Защитная стойка I
 90200 Common Common Warrior Защитная стойка II
@@ -109,6 +142,10 @@
 90350 Common Common Warrior Защитная стойка III
 90400 Common Common Warrior Защитная стойка IV
 90450 Common Common Warrior Защитная стойка IV
+90500 Common Common Warrior Защитная стойка V
+90550 Common Common Warrior Защитная стойка V
+90600 Common Common Warrior Защитная стойка VI
+90650 Common Common Warrior Защитная стойка VI
 100100 Common Common Warrior Смерть с небес I
 100200 Common Common Warrior Смерть с небес II
 100300 Common Common Warrior Смерть с небес III
@@ -116,6 +153,9 @@
 100500 Common Common Warrior Смерть с небес V
 100600 Common Common Warrior Смерть с небес VI
 100700 Common Common Warrior Смерть с небес VII
+100800 Common Common Warrior Смерть с небес VIII
+100900 Common Common Warrior Смерть с небес IX
+101000 Common Common Warrior Смерть с небес X
 110100 Common Common Warrior Отравленный клинок I
 110200 Common Common Warrior Отравленный клинок II
 110300 Common Common Warrior Отравленный клинок III
@@ -124,6 +164,9 @@
 110600 Common Common Warrior Отравленный клинок VI
 110700 Common Common Warrior Отравленный клинок VII
 110800 Common Common Warrior Отравленный клинок VIII
+110900 Common Common Warrior Отравленный клинок IX
+111000 Common Common Warrior Отравленный клинок X
+111100 Common Common Warrior Отравленный клинок XI
 120100 Common Common Warrior Удар в прыжке I
 120200 Common Common Warrior Удар в прыжке II
 120300 Common Common Warrior Удар в прыжке III
@@ -132,6 +175,9 @@
 120600 Common Common Warrior Удар в прыжке VI
 120700 Common Common Warrior Удар в прыжке VII
 120800 Common Common Warrior Удар в прыжке VIII
+120900 Common Common Warrior Удар в прыжке IX
+121000 Common Common Warrior Удар в прыжке X
+121100 Common Common Warrior Удар в прыжке XI
 130100 Common Common Warrior Ответный удар I
 130200 Common Common Warrior Ответный удар II
 130300 Common Common Warrior Ответный удар III
@@ -142,8 +188,12 @@
 130800 Common Common Warrior Ответный удар VIII
 130900 Common Common Warrior Ответный удар IX
 131000 Common Common Warrior Ответный удар X
-140100 Common Common Warrior Инстинкт охотника
-140150 Common Common Warrior Инстинкт охотника
+131100 Common Common Warrior Ответный удар XI
+131200 Common Common Warrior Ответный удар XII
+140100 Common Common Warrior Инстинкт охотника I
+140150 Common Common Warrior Инстинкт охотника I
+140200 Common Common Warrior Инстинкт охотника II
+140250 Common Common Warrior Инстинкт охотника II
 160100 Common Common Warrior Разъяряющий порез I
 160101 Common Common Warrior Разъяряющий порез I
 160200 Common Common Warrior Разъяряющий порез II
@@ -158,6 +208,12 @@
 160601 Common Common Warrior Разъяряющий порез VI
 160700 Common Common Warrior Разъяряющий порез VII
 160701 Common Common Warrior Разъяряющий порез VII
+160800 Common Common Warrior Разъяряющий порез VIII
+160801 Common Common Warrior Разъяряющий порез VIII
+160900 Common Common Warrior Разъяряющий порез IX
+160901 Common Common Warrior Разъяряющий порез IX
+161000 Common Common Warrior Разъяряющий порез X
+161001 Common Common Warrior Разъяряющий порез X
 170100 Common Common Warrior Круговой удар I
 170200 Common Common Warrior Круговой удар II
 170300 Common Common Warrior Круговой удар III
@@ -169,6 +225,9 @@
 170900 Common Common Warrior Круговой удар IX
 171000 Common Common Warrior Круговой удар X
 171100 Common Common Warrior Круговой удар XI
+171200 Common Common Warrior Круговой удар XII
+171300 Common Common Warrior Круговой удар XIII
+171400 Common Common Warrior Круговой удар XIV
 180100 Common Common Warrior Удар воина I
 180200 Common Common Warrior Удар воина II
 180300 Common Common Warrior Удар воина III
@@ -180,6 +239,9 @@
 180900 Common Common Warrior Удар воина IX
 181000 Common Common Warrior Удар воина X
 181100 Common Common Warrior Удар воина XI
+181200 Common Common Warrior Удар воина XII
+181300 Common Common Warrior Удар воина XIII
+181400 Common Common Warrior Удар воина XIV
 190100 Common Common Warrior Нарастающая ярость I
 190101 Common Common Warrior Нарастающая ярость I
 190200 Common Common Warrior Нарастающая ярость II
@@ -200,12 +262,24 @@
 190901 Common Common Warrior Нарастающая ярость IX
 191000 Common Common Warrior Нарастающая ярость X
 191001 Common Common Warrior Нарастающая ярость X
+191100 Common Common Warrior Нарастающая ярость XI
+191101 Common Common Warrior Нарастающая ярость XI
+191200 Common Common Warrior Нарастающая ярость XII
+191201 Common Common Warrior Нарастающая ярость XII
+191300 Common Common Warrior Нарастающая ярость XIII
+191301 Common Common Warrior Нарастающая ярость XIII
 200100 Common Common Warrior Смертельная игра I
 200200 Common Common Warrior Смертельная игра II
+200300 Common Common Warrior Смертельная игра III
+200400 Common Common Warrior Смертельная игра IV
 210100 Common Common Warrior Каскад оглушений I
 210200 Common Common Warrior Каскад оглушений II
+210300 Common Common Warrior Каскад оглушений III
+210400 Common Common Warrior Каскад оглушений IV
 220100 Common Common Warrior Удар в спину I
 220200 Common Common Warrior Удар в спину II
+220300 Common Common Warrior Удар в спину III
+220400 Common Common Warrior Удар в спину IV
 230100 Common Common Warrior Ошеломление I
 230200 Common Common Warrior Ошеломление II
 240100 Common Common Warrior Призрачный воин I
@@ -217,8 +291,11 @@
 240700 Common Common Warrior Призрачный воин VII
 240800 Common Common Warrior Призрачный воин VIII
 240900 Common Common Warrior Призрачный воин IX
-250100 Common Common Warrior Приказ: Атака
-260100 Common Common Warrior Приказ: Следовать
+241000 Common Common Warrior Призрачный воин X
+241100 Common Common Warrior Призрачный воин XI
+241200 Common Common Warrior Призрачный воин XII
+250100 Common Common Warrior Приказ: Атака I
+260100 Common Common Warrior Приказ: Следовать I
 270100 Common Common Warrior Наскок I
 270200 Common Common Warrior Наскок II
 270300 Common Common Warrior Наскок III
@@ -227,6 +304,9 @@
 270600 Common Common Warrior Наскок VI
 270700 Common Common Warrior Наскок VII
 270800 Common Common Warrior Наскок VIII
+270900 Common Common Warrior Наскок IX
+271000 Common Common Warrior Наскок X
+271100 Common Common Warrior Наскок XI
 280100 Common Common Warrior Прорезающий выпад I
 280130 Common Common Warrior Прорезающий выпад I
 280200 Common Common Warrior Прорезающий выпад II
@@ -241,6 +321,12 @@
 280630 Common Common Warrior Прорезающий выпад VI
 280700 Common Common Warrior Прорезающий выпад VII
 280730 Common Common Warrior Прорезающий выпад VII
+280800 Common Common Warrior Прорезающий выпад VIII
+280830 Common Common Warrior Прорезающий выпад VIII
+280900 Common Common Warrior Прорезающий выпад IX
+280930 Common Common Warrior Прорезающий выпад IX
+281000 Common Common Warrior Прорезающий выпад X
+281030 Common Common Warrior Прорезающий выпад X
 290100 Common Common Warrior Рваная рана I
 290130 Common Common Warrior Рваная рана I
 290200 Common Common Warrior Рваная рана II
@@ -255,10 +341,22 @@
 290630 Common Common Warrior Рваная рана VI
 290700 Common Common Warrior Рваная рана VII
 290730 Common Common Warrior Рваная рана VII
+290800 Common Common Warrior Рваная рана VIII
+290830 Common Common Warrior Рваная рана VIII
+290900 Common Common Warrior Рваная рана IX
+290930 Common Common Warrior Рваная рана IX
+291000 Common Common Warrior Рваная рана X
+291030 Common Common Warrior Рваная рана X
 300100 Common Common Warrior Коса I
 300130 Common Common Warrior Коса I
 300200 Common Common Warrior Коса II
 300230 Common Common Warrior Коса II
+300300 Common Common Warrior Коса III
+300330 Common Common Warrior Коса III
+300400 Common Common Warrior Коса IV
+300430 Common Common Warrior Коса IV
+300500 Common Common Warrior Коса V
+300530 Common Common Warrior Коса V
 310100 Common Common Warrior Удар жнеца I
 310130 Common Common Warrior Удар жнеца I
 310200 Common Common Warrior Удар жнеца II
@@ -277,7 +375,14 @@
 310830 Common Common Warrior Удар жнеца VIII
 310900 Common Common Warrior Удар жнеца IX
 310930 Common Common Warrior Удар жнеца IX
-320100 Common Common Warrior Скрещенные мечи
+311000 Common Common Warrior Удар жнеца X
+311030 Common Common Warrior Удар жнеца X
+311100 Common Common Warrior Удар жнеца XI
+311130 Common Common Warrior Удар жнеца XI
+311200 Common Common Warrior Удар жнеца XII
+311230 Common Common Warrior Удар жнеца XII
+320100 Common Common Warrior Скрещенные мечи I
+320200 Common Common Warrior Скрещенные мечи II
 330100 Common Common Warrior Теневой удар I
 330200 Common Common Warrior Теневой удар II
 330300 Common Common Warrior Теневой удар III
@@ -287,7 +392,10 @@
 330700 Common Common Warrior Теневой удар VII
 330800 Common Common Warrior Теневой удар VIII
 330900 Common Common Warrior Теневой удар IX
-340100 Common Common Warrior Связующий меч
+331000 Common Common Warrior Теневой удар X
+331100 Common Common Warrior Теневой удар XI
+331200 Common Common Warrior Теневой удар XII
+340100 Common Common Warrior Связующий меч I
 350100 Common Common Warrior Вспышка гнева I
 10100 Common Common Berserker Комбо-атака I
 10101 Common Common Berserker Комбо-атака I
@@ -337,10 +445,23 @@
 11201 Common Common Berserker Комбо-атака XII
 11202 Common Common Berserker Комбо-атака XII
 11203 Common Common Berserker Комбо-атака XII
-20100 Common Common Berserker Блок топором
+11300 Common Common Berserker Комбо-атака XIII
+11301 Common Common Berserker Комбо-атака XIII
+11302 Common Common Berserker Комбо-атака XIII
+11303 Common Common Berserker Комбо-атака XIII
+11400 Common Common Berserker Комбо-атака XIV
+11401 Common Common Berserker Комбо-атака XIV
+11402 Common Common Berserker Комбо-атака XIV
+11403 Common Common Berserker Комбо-атака XIV
+11500 Common Common Berserker Комбо-атака XV
+11501 Common Common Berserker Комбо-атака XV
+11502 Common Common Berserker Комбо-атака XV
+11503 Common Common Berserker Комбо-атака XV
+20100 Common Common Berserker Блок топором I
 20200 Common Common Berserker Блок топором II
 20230 Common Common Berserker Блок топором II
 20231 Common Common Berserker Блок топором II
+20300 Common Common Berserker Блок топором III
 30100 Common Common Berserker Громовой удар I
 30110 Common Common Berserker Громовой удар I
 30111 Common Common Berserker Громовой удар I
@@ -391,6 +512,26 @@
 31011 Common Common Berserker Громовой удар X
 31012 Common Common Berserker Громовой удар X
 31013 Common Common Berserker Громовой удар X
+31100 Common Common Berserker Громовой удар XI
+31110 Common Common Berserker Громовой удар XI
+31111 Common Common Berserker Громовой удар XI
+31112 Common Common Berserker Громовой удар XI
+31113 Common Common Berserker Громовой удар XI
+31200 Common Common Berserker Громовой удар XII
+31210 Common Common Berserker Громовой удар XII
+31211 Common Common Berserker Громовой удар XII
+31212 Common Common Berserker Громовой удар XII
+31213 Common Common Berserker Громовой удар XII
+31300 Common Common Berserker Громовой удар XIII
+31310 Common Common Berserker Громовой удар XIII
+31311 Common Common Berserker Громовой удар XIII
+31312 Common Common Berserker Громовой удар XIII
+31313 Common Common Berserker Громовой удар XIII
+31400 Common Common Berserker Громовой удар XIV
+31410 Common Common Berserker Громовой удар XIV
+31411 Common Common Berserker Громовой удар XIV
+31412 Common Common Berserker Громовой удар XIV
+31413 Common Common Berserker Громовой удар XIV
 40100 Common Common Berserker Землетрясение I
 40101 Common Common Berserker Землетрясение I
 40130 Common Common Berserker Землетрясение I
@@ -435,8 +576,19 @@
 41101 Common Common Berserker Землетрясение XI
 41130 Common Common Berserker Землетрясение XI
 41131 Common Common Berserker Землетрясение XI
+41200 Common Common Berserker Землетрясение XII
+41230 Common Common Berserker Землетрясение XII
+41300 Common Common Berserker Землетрясение XIII
+41330 Common Common Berserker Землетрясение XIII
+41400 Common Common Berserker Землетрясение XIV
+41430 Common Common Berserker Землетрясение XIV
+41500 Common Common Berserker Землетрясение XV
+41530 Common Common Berserker Землетрясение XV
 50100 Common Common Berserker Рывок I
 50200 Common Common Berserker Рывок II
+50300 Common Common Berserker Рывок III
+50400 Common Common Berserker Рывок IV
+50500 Common Common Berserker Рывок V
 60100 Common Common Berserker Ошеломляющий удар I
 60130 Common Common Berserker Ошеломляющий удар I
 60200 Common Common Berserker Ошеломляющий удар II
@@ -447,7 +599,13 @@
 60430 Common Common Berserker Ошеломляющий удар IV
 60500 Common Common Berserker Ошеломляющий удар V
 60530 Common Common Berserker Ошеломляющий удар V
-70100 Common Common Berserker Насмешка
+60600 Common Common Berserker Ошеломляющий удар VI
+60700 Common Common Berserker Ошеломляющий удар VII
+60800 Common Common Berserker Ошеломляющий удар VIII
+70100 Common Common Berserker Насмешка I
+70200 Common Common Berserker Насмешка II
+70300 Common Common Berserker Насмешка III
+70400 Common Common Berserker Насмешка IV
 80100 Common Common Berserker Огненная ярость I
 80130 Common Common Berserker Огненная ярость I
 80200 Common Common Berserker Огненная ярость II
@@ -460,8 +618,11 @@
 80530 Common Common Berserker Огненная ярость V
 80600 Common Common Berserker Огненная ярость VI
 80630 Common Common Berserker Огненная ярость VI
+80700 Common Common Berserker Огненная ярость VII
 90100 Common Common Berserker Клич победителя I
 90200 Common Common Berserker Клич победителя II
+90300 Common Common Berserker Клич победителя III
+90400 Common Common Berserker Клич победителя IV
 100100 Common Common Berserker Вихрь I
 100110 Common Common Berserker Вихрь I
 100111 Common Common Berserker Вихрь I
@@ -517,6 +678,21 @@
 101111 Common Common Berserker Вихрь XI
 101112 Common Common Berserker Вихрь XI
 101113 Common Common Berserker Вихрь XI
+101200 Common Common Berserker Вихрь XII
+101210 Common Common Berserker Вихрь XII
+101211 Common Common Berserker Вихрь XII
+101212 Common Common Berserker Вихрь XII
+101213 Common Common Berserker Вихрь XII
+101300 Common Common Berserker Вихрь XIII
+101310 Common Common Berserker Вихрь XIII
+101311 Common Common Berserker Вихрь XIII
+101312 Common Common Berserker Вихрь XIII
+101313 Common Common Berserker Вихрь XIII
+101400 Common Common Berserker Вихрь XIV
+101410 Common Common Berserker Вихрь XIV
+101411 Common Common Berserker Вихрь XIV
+101412 Common Common Berserker Вихрь XIV
+101413 Common Common Berserker Вихрь XIV
 110100 Common Common Berserker Удар в прыжке I
 110200 Common Common Berserker Удар в прыжке II
 110300 Common Common Berserker Удар в прыжке III
@@ -525,6 +701,9 @@
 110600 Common Common Berserker Удар в прыжке VI
 110700 Common Common Berserker Удар в прыжке VII
 110800 Common Common Berserker Удар в прыжке VIII
+110900 Common Common Berserker Удар в прыжке IX
+111000 Common Common Berserker Удар в прыжке X
+111100 Common Common Berserker Удар в прыжке XI
 120100 Common Common Berserker Неудержимый гнев I
 120130 Common Common Berserker Неудержимый гнев I
 120131 Common Common Berserker Неудержимый гнев I
@@ -549,6 +728,7 @@
 120800 Common Common Berserker Неудержимый гнев VIII
 120830 Common Common Berserker Неудержимый гнев VIII
 120831 Common Common Berserker Неудержимый гнев VIII
+120900 Common Common Berserker Неудержимый гнев IX
 130100 Common Common Berserker Ответный удар I
 130200 Common Common Berserker Ответный удар II
 130300 Common Common Berserker Ответный удар III
@@ -559,6 +739,8 @@
 130800 Common Common Berserker Ответный удар VIII
 130900 Common Common Berserker Ответный удар IX
 131000 Common Common Berserker Ответный удар X
+131100 Common Common Berserker Ответный удар XI
+131200 Common Common Berserker Ответный удар XII
 150100 Common Common Berserker Удар вампира I
 150110 Common Common Berserker Удар вампира I
 150111 Common Common Berserker Удар вампира I
@@ -613,12 +795,35 @@
 150912 Common Common Berserker Удар вампира IX
 150913 Common Common Berserker Удар вампира IX
 150914 Common Common Berserker Удар вампира IX
+151000 Common Common Berserker Удар вампира X
+151010 Common Common Berserker Удар вампира X
+151011 Common Common Berserker Удар вампира X
+151012 Common Common Berserker Удар вампира X
+151013 Common Common Berserker Удар вампира X
+151014 Common Common Berserker Удар вампира X
+151100 Common Common Berserker Удар вампира XI
+151110 Common Common Berserker Удар вампира XI
+151111 Common Common Berserker Удар вампира XI
+151112 Common Common Berserker Удар вампира XI
+151113 Common Common Berserker Удар вампира XI
+151114 Common Common Berserker Удар вампира XI
+151200 Common Common Berserker Удар вампира XII
+151210 Common Common Berserker Удар вампира XII
+151211 Common Common Berserker Удар вампира XII
+151212 Common Common Berserker Удар вампира XII
+151213 Common Common Berserker Удар вампира XII
+151214 Common Common Berserker Удар вампира XII
 160100 Common Common Berserker Ужасающий крик I
 160200 Common Common Berserker Ужасающий крик II
 160300 Common Common Berserker Ужасающий крик III
 160400 Common Common Berserker Ужасающий крик IV
+160500 Common Common Berserker Ужасающий крик V
+160600 Common Common Berserker Ужасающий крик VI
+160700 Common Common Berserker Ужасающий крик VII
 170100 Common Common Berserker Ураган ударов I
 170200 Common Common Berserker Ураган ударов II
+170300 Common Common Berserker Ураган ударов III
+170400 Common Common Berserker Ураган ударов IV
 180100 Common Common Berserker Смертельный удар I
 180110 Common Common Berserker Смертельный удар I
 180111 Common Common Berserker Смертельный удар I
@@ -649,17 +854,38 @@
 180611 Common Common Berserker Смертельный удар VI
 180612 Common Common Berserker Смертельный удар VI
 180613 Common Common Berserker Смертельный удар VI
+180700 Common Common Berserker Смертельный удар VII
+180710 Common Common Berserker Смертельный удар VII
+180711 Common Common Berserker Смертельный удар VII
+180712 Common Common Berserker Смертельный удар VII
+180713 Common Common Berserker Смертельный удар VII
+180800 Common Common Berserker Смертельный удар VIII
+180810 Common Common Berserker Смертельный удар VIII
+180811 Common Common Berserker Смертельный удар VIII
+180812 Common Common Berserker Смертельный удар VIII
+180813 Common Common Berserker Смертельный удар VIII
+180900 Common Common Berserker Смертельный удар IX
+180910 Common Common Berserker Смертельный удар IX
+180911 Common Common Berserker Смертельный удар IX
+180912 Common Common Berserker Смертельный удар IX
+180913 Common Common Berserker Смертельный удар IX
 190100 Common Common Berserker Упорство I
 190200 Common Common Berserker Упорство II
 190300 Common Common Berserker Упорство III
+190400 Common Common Berserker Упорство IV
+190500 Common Common Berserker Упорство V
 200100 Common Common Berserker Неотвратимый рок I
 200200 Common Common Berserker Неотвратимый рок II
-210100 Common Common Berserker Кровожадность I
-210200 Common Common Berserker Кровожадность II
-210300 Common Common Berserker Кровожадность I
-210400 Common Common Berserker Кровожадность I
-220100 Common Common Berserker Подножка
-230100 Common Common Berserker Разрушение
+200300 Common Common Berserker Неотвратимый рок III
+200400 Common Common Berserker Неотвратимый рок IV
+210100 Common Common Berserker Кровожадность
+210200 Common Common Berserker Кровожадность
+210300 Common Common Berserker Кровожадность
+210400 Common Common Berserker Кровожадность
+220100 Common Common Berserker Подножка I
+220200 Common Common Berserker Подножка II
+230100 Common Common Berserker Разрушение I
+230200 Common Common Berserker Разрушение II
 240100 Common Common Berserker Обманный удар I
 240105 Common Common Berserker Обманный удар I
 240110 Common Common Berserker Обманный удар I
@@ -672,22 +898,40 @@
 240211 Common Common Berserker Обманный удар II
 240212 Common Common Berserker Обманный удар II
 240213 Common Common Berserker Обманный удар II
-250100 Common Common Berserker Разрушение
-250101 Common Common Berserker Разрушение
-250130 Common Common Berserker Разрушение
-250131 Common Common Berserker Разрушение
-260100 Common Common Berserker Подножка
-260120 Common Common Berserker Подножка
-270100 Common Common Berserker Неразрушимость
-280100 Common Common Berserker Устрашение
-280150 Common Common Berserker Устрашение
-290100 Common Common Berserker Уклонение
-300100 Common Common Berserker Контрудар топором
-300130 Common Common Berserker Контрудар топором
-310100 Common Common Berserker Подавление
-310101 Common Common Berserker Подавление
-320100 Common Common Berserker Карающий удар
-320101 Common Common Berserker Карающий удар
+240300 Common Common Berserker Обманный удар III
+240305 Common Common Berserker Обманный удар III
+240310 Common Common Berserker Обманный удар III
+240311 Common Common Berserker Обманный удар III
+240312 Common Common Berserker Обманный удар III
+240313 Common Common Berserker Обманный удар III
+240400 Common Common Berserker Обманный удар IV
+240405 Common Common Berserker Обманный удар IV
+240410 Common Common Berserker Обманный удар IV
+240411 Common Common Berserker Обманный удар IV
+240412 Common Common Berserker Обманный удар IV
+240413 Common Common Berserker Обманный удар IV
+240500 Common Common Berserker Обманный удар V
+240505 Common Common Berserker Обманный удар V
+240510 Common Common Berserker Обманный удар V
+240511 Common Common Berserker Обманный удар V
+240512 Common Common Berserker Обманный удар V
+240513 Common Common Berserker Обманный удар V
+250100 Common Common Berserker Разрушение I
+250101 Common Common Berserker Разрушение I
+250130 Common Common Berserker Разрушение I
+250131 Common Common Berserker Разрушение I
+260100 Common Common Berserker Подножка I
+260120 Common Common Berserker Подножка I
+270100 Common Common Berserker Неразрушимость I
+280100 Common Common Berserker Устрашение I
+280150 Common Common Berserker Устрашение I
+290100 Common Common Berserker Уклонение I
+300100 Common Common Berserker Контрудар топором I
+300130 Common Common Berserker Контрудар топором I
+310100 Common Common Berserker Подавление I
+310101 Common Common Berserker Подавление I
+320100 Common Common Berserker Карающий удар I
+320101 Common Common Berserker Карающий удар I
 10100 Common Common Mystic Удар Шары I
 10101 Common Common Mystic Удар Шары I
 10102 Common Common Mystic Удар Шары I
@@ -736,6 +980,18 @@
 11201 Common Common Mystic Удар Шары XII
 11202 Common Common Mystic Удар Шары XII
 11203 Common Common Mystic Удар Шары XII
+11300 Common Common Mystic Удар Шары XIII
+11301 Common Common Mystic Удар Шары XIII
+11302 Common Common Mystic Удар Шары XIII
+11303 Common Common Mystic Удар Шары XIII
+11400 Common Common Mystic Удар Шары XIV
+11401 Common Common Mystic Удар Шары XIV
+11402 Common Common Mystic Удар Шары XIV
+11403 Common Common Mystic Удар Шары XIV
+11500 Common Common Mystic Удар Шары XV
+11501 Common Common Mystic Удар Шары XV
+11502 Common Common Mystic Удар Шары XV
+11503 Common Common Mystic Удар Шары XV
 20100 Common Common Mystic Кольцо разрушения I
 20111 Common Common Mystic Кольцо разрушения I
 20112 Common Common Mystic Кольцо восполнения I
@@ -766,13 +1022,36 @@
 21000 Common Common Mystic Кольцо разрушения X
 21011 Common Common Mystic Кольцо разрушения X
 21012 Common Common Mystic Кольцо восполнения X
+21100 Common Common Mystic Кольцо разрушения XI
+21111 Common Common Mystic Кольцо разрушения XI
+21112 Common Common Mystic Кольцо разрушения XI
+21200 Common Common Mystic Кольцо разрушения XII
+21211 Common Common Mystic Кольцо разрушения XII
+21212 Common Common Mystic Кольцо разрушения XII
+21300 Common Common Mystic Кольцо разрушения XIII
+21311 Common Common Mystic Кольцо разрушения XIII
+21312 Common Common Mystic Кольцо разрушения XIII
+21400 Common Common Mystic Кольцо разрушения XIV
+21411 Common Common Mystic Кольцо разрушения XIV
+21412 Common Common Mystic Кольцо разрушения XIV
 30100 Common Common Mystic Гнев титанов I
 30200 Common Common Mystic Гнев титанов II
 30300 Common Common Mystic Гнев титанов III
+30400 Common Common Mystic Гнев титанов IV
+30500 Common Common Mystic Гнев титанов V
+30600 Common Common Mystic Гнев титанов VI
 40100 Common Common Mystic Оковы древних I
 40120 Common Common Mystic Оковы древних I
 40200 Common Common Mystic Оковы древних II
 40220 Common Common Mystic Оковы древних II
+40300 Common Common Mystic Оковы древних III
+40320 Common Common Mystic Оковы древних III
+40400 Common Common Mystic Оковы древних IV
+40420 Common Common Mystic Оковы древних IV
+40500 Common Common Mystic Оковы древних V
+40520 Common Common Mystic Оковы древних V
+40600 Common Common Mystic Оковы древних VI
+40620 Common Common Mystic Оковы древних VI
 50100 Common Common Mystic Милость титанов I
 50110 Common Common Mystic Милость титанов I
 50200 Common Common Mystic Милость титанов II
@@ -791,9 +1070,29 @@
 50810 Common Common Mystic Милость титанов VIII
 50900 Common Common Mystic Милость титанов IX
 50910 Common Common Mystic Милость титанов IX
-60100 Common Common Mystic Плеть Шары
-60120 Common Common Mystic Плеть Шары
-70100 Common Common Mystic Восстановление маны
+51000 Common Common Mystic Милость титанов X
+51010 Common Common Mystic Милость титанов X
+51100 Common Common Mystic Милость титанов XI
+51110 Common Common Mystic Милость титанов XI
+51200 Common Common Mystic Милость титанов XII
+51210 Common Common Mystic Милость титанов XII
+60100 Common Common Mystic Плеть Шары I
+60120 Common Common Mystic Плеть Шары I
+60200 Common Common Mystic Плеть Шары II
+60220 Common Common Mystic Плеть Шары II
+60300 Common Common Mystic Плеть Шары III
+60320 Common Common Mystic Плеть Шары III
+60400 Common Common Mystic Плеть Шары IV
+60420 Common Common Mystic Плеть Шары IV
+60500 Common Common Mystic Плеть Шары V
+60520 Common Common Mystic Плеть Шары V
+60600 Common Common Mystic Плеть Шары VI
+60620 Common Common Mystic Плеть Шары VI
+70100 Common Common Mystic Восстановление маны I
+70200 Common Common Mystic Восстановление маны II
+70300 Common Common Mystic Восстановление маны III
+70400 Common Common Mystic Восстановление маны IV
+70500 Common Common Mystic Восстановление маны V
 80100 Common Common Mystic Взрыв метаморфозы I
 80200 Common Common Mystic Взрыв метаморфозы II
 80300 Common Common Mystic Взрыв метаморфозы III
@@ -805,19 +1104,52 @@
 80900 Common Common Mystic Взрыв метаморфозы IX
 81000 Common Common Mystic Взрыв метаморфозы X
 81100 Common Common Mystic Взрыв метаморфозы XI
-90100 Common Common Mystic Прикосновение Аруна
-90110 Common Common Mystic Прикосновение Аруна
-100100 Common Common Mystic Воскрешение
-110100 Common Common Mystic Призыв союзников
-120100 Common Common Mystic Обет перерождения
+81200 Common Common Mystic Взрыв метаморфозы XII
+81300 Common Common Mystic Взрыв метаморфозы XIII
+81400 Common Common Mystic Взрыв метаморфозы XIV
+81500 Common Common Mystic Взрыв метаморфозы XV
+90100 Common Common Mystic Прикосновение Аруна I
+90110 Common Common Mystic Прикосновение Аруна I
+90200 Common Common Mystic Прикосновение Аруна II
+90210 Common Common Mystic Прикосновение Аруна II
+90300 Common Common Mystic Прикосновение Аруна III
+90310 Common Common Mystic Прикосновение Аруна III
+90400 Common Common Mystic Прикосновение Аруна IV
+90410 Common Common Mystic Прикосновение Аруна IV
+90500 Common Common Mystic Прикосновение Аруна V
+90510 Common Common Mystic Прикосновение Аруна V
+100100 Common Common Mystic Воскрешение I
+100200 Common Common Mystic Воскрешение II
+100300 Common Common Mystic Воскрешение III
+100400 Common Common Mystic Воскрешение IV
+100500 Common Common Mystic Воскрешение V
+110100 Common Common Mystic Призыв союзников I
+110200 Common Common Mystic Призыв союзников II
+120100 Common Common Mystic Обет перерождения I
+120200 Common Common Mystic Обет перерождения II
+120300 Common Common Mystic Обет перерождения III
+120400 Common Common Mystic Обет перерождения IV
+120500 Common Common Mystic Обет перерождения V
 130100 Common Common Mystic Аура безжалостности I
 130150 Common Common Mystic Аура безжалостности I
 130200 Common Common Mystic Аура безжалостности II
 130250 Common Common Mystic Аура безжалостности II
-140100 Common Common Mystic Аура скорости
-140150 Common Common Mystic Аура скорости
+130300 Common Common Mystic Аура безжалостности III
+130350 Common Common Mystic Аура безжалостности III
+130400 Common Common Mystic Аура безжалостности IV
+130450 Common Common Mystic Аура безжалостности IV
+130500 Common Common Mystic Аура безжалостности V
+130550 Common Common Mystic Аура безжалостности V
+140100 Common Common Mystic Аура скорости I
+140150 Common Common Mystic Аура скорости I
 140200 Common Common Mystic Аура скорости II
 140250 Common Common Mystic Аура скорости II
+140300 Common Common Mystic Аура скорости III
+140350 Common Common Mystic Аура скорости III
+140400 Common Common Mystic Аура скорости IV
+140450 Common Common Mystic Аура скорости IV
+140500 Common Common Mystic Аура скорости V
+140550 Common Common Mystic Аура скорости V
 150100 Common Common Mystic Аура непреклонности I
 150150 Common Common Mystic Аура непреклонности I
 150200 Common Common Mystic Аура непреклонности II
@@ -826,9 +1158,31 @@
 150350 Common Common Mystic Аура непреклонности III
 150400 Common Common Mystic Аура непреклонности IV
 150450 Common Common Mystic Аура непреклонности IV
-160100 Common Common Mystic Аура упорства
-160150 Common Common Mystic Аура упорства
-170100 Common Common Mystic Телепортация
+150500 Common Common Mystic Аура непреклонности V
+150550 Common Common Mystic Аура непреклонности V
+150600 Common Common Mystic Аура непреклонности VI
+150650 Common Common Mystic Аура непреклонности VI
+160100 Common Common Mystic Аура упорства I
+160150 Common Common Mystic Аура упорства I
+160200 Common Common Mystic Аура упорства II
+160250 Common Common Mystic Аура упорства II
+160300 Common Common Mystic Аура упорства III
+160350 Common Common Mystic Аура упорства III
+160400 Common Common Mystic Аура упорства IV
+160450 Common Common Mystic Аура упорства IV
+160500 Common Common Mystic Аура упорства V
+160550 Common Common Mystic Аура упорства V
+170100 Common Common Mystic Телепортация I
+170200 Common Common Mystic Телепортация II
+170300 Common Common Mystic Телепортация III
+170400 Common Common Mystic Телепортация IV
+170500 Common Common Mystic Телепортация V
+170600 Common Common Mystic Телепортация VI
+170700 Common Common Mystic Телепортация VII
+170800 Common Common Mystic Телепортация VIII
+170900 Common Common Mystic Телепортация IX
+171000 Common Common Mystic Телепортация X
+171100 Common Common Mystic Телепортация XI
 180100 Common Common Mystic Сфера жизни Аруна I
 180200 Common Common Mystic Сфера жизни Аруна II
 180300 Common Common Mystic Сфера жизни Аруна III
@@ -840,6 +1194,10 @@
 180900 Common Common Mystic Сфера жизни Аруна IX
 181000 Common Common Mystic Сфера жизни Аруна X
 181100 Common Common Mystic Сфера жизни Аруна XI
+181200 Common Common Mystic Сфера жизни Аруна XII
+181300 Common Common Mystic Сфера жизни Аруна XIII
+181400 Common Common Mystic Сфера жизни Аруна XIV
+181500 Common Common Mystic Сфера жизни Аруна XV
 210100 Common Common Mystic Ответный удар I
 210200 Common Common Mystic Ответный удар II
 210300 Common Common Mystic Ответный удар III
@@ -850,7 +1208,10 @@
 210800 Common Common Mystic Ответный удар VIII
 210900 Common Common Mystic Ответный удар IX
 211000 Common Common Mystic Ответный удар X
-220100 Common Common Mystic Слезы Аруна
+211100 Common Common Mystic Ответный удар XI
+211200 Common Common Mystic Ответный удар XII
+220100 Common Common Mystic Слезы Аруна I
+220200 Common Common Mystic Слезы Аруна II
 230100 Common Common Mystic Удар метаморфозы I
 230200 Common Common Mystic Удар метаморфозы II
 230300 Common Common Mystic Удар метаморфозы III
@@ -861,6 +1222,9 @@
 230800 Common Common Mystic Удар метаморфозы VIII
 230900 Common Common Mystic Удар метаморфозы IX
 231000 Common Common Mystic Удар метаморфозы X
+231100 Common Common Mystic Удар метаморфозы XI
+231200 Common Common Mystic Удар метаморфозы XII
+231300 Common Common Mystic Удар метаморфозы XIII
 240100 Common Common Mystic Град проклятий I
 240110 Common Common Mystic Град проклятий I
 240200 Common Common Mystic Град проклятий II
@@ -879,6 +1243,12 @@
 240810 Common Common Mystic Град проклятий VIII
 240900 Common Common Mystic Град проклятий IX
 240910 Common Common Mystic Град проклятий IX
+241000 Common Common Mystic Град проклятий X
+241010 Common Common Mystic Град проклятий X
+241100 Common Common Mystic Град проклятий XI
+241110 Common Common Mystic Град проклятий XI
+241200 Common Common Mystic Град проклятий XII
+241210 Common Common Mystic Град проклятий XII
 250100 Common Common Mystic Миньон-защитник I
 250200 Common Common Mystic Миньон-защитник II
 250300 Common Common Mystic Миньон-защитник III
@@ -896,6 +1266,8 @@
 251500 Common Common Mystic Миньон-защитник XV
 251600 Common Common Mystic Миньон-защитник XVI
 251700 Common Common Mystic Миньон-защитник XVII
+251800 Common Common Mystic Миньон-защитник XVIII
+251900 Common Common Mystic Миньон-защитник XIX
 270100 Common Common Mystic Миньон-целитель I
 270200 Common Common Mystic Миньон-целитель II
 270300 Common Common Mystic Миньон-целитель III
@@ -910,24 +1282,60 @@
 271200 Common Common Mystic Миньон-целитель XII
 271300 Common Common Mystic Миньон-целитель XIII
 271400 Common Common Mystic Миньон-целитель XIV
+271500 Common Common Mystic Миньон-целитель XV
+271600 Common Common Mystic Миньон-целитель XVI
 280100 Common Common Mystic Глубокий сон I
 280110 Common Common Mystic Глубокий сон I
 280200 Common Common Mystic Глубокий сон II
 280210 Common Common Mystic Глубокий сон II
+280300 Common Common Mystic Глубокий сон III
+280310 Common Common Mystic Глубокий сон III
+280400 Common Common Mystic Глубокий сон IV
+280410 Common Common Mystic Глубокий сон IV
+280500 Common Common Mystic Глубокий сон V
+280510 Common Common Mystic Глубокий сон V
+280600 Common Common Mystic Глубокий сон VI
+280610 Common Common Mystic Глубокий сон VI
 290100 Common Common Mystic Упадок I
 290200 Common Common Mystic Упадок II
+290300 Common Common Mystic Упадок III
+290400 Common Common Mystic Упадок IV
+290500 Common Common Mystic Упадок V
+290600 Common Common Mystic Упадок VI
 300100 Common Common Mystic Проклятие изнурения I
 300110 Common Common Mystic Проклятие изнурения I
 300200 Common Common Mystic Проклятие изнурения II
 300210 Common Common Mystic Проклятие изнурения II
 300300 Common Common Mystic Проклятие изнурения III
 300310 Common Common Mystic Проклятие изнурения III
-310100 Common Common Mystic Ужасное проклятие
-310110 Common Common Mystic Ужасное проклятие
+300400 Common Common Mystic Проклятие изнурения IV
+300410 Common Common Mystic Проклятие изнурения IV
+300500 Common Common Mystic Проклятие изнурения V
+300510 Common Common Mystic Проклятие изнурения V
+300600 Common Common Mystic Проклятие изнурения VI
+300610 Common Common Mystic Проклятие изнурения VI
+310100 Common Common Mystic Ужасное проклятие I
+310110 Common Common Mystic Ужасное проклятие I
+310200 Common Common Mystic Ужасное проклятие II
+310210 Common Common Mystic Ужасное проклятие II
+310300 Common Common Mystic Ужасное проклятие III
+310310 Common Common Mystic Ужасное проклятие III
+310400 Common Common Mystic Ужасное проклятие IV
+310410 Common Common Mystic Ужасное проклятие IV
+310500 Common Common Mystic Ужасное проклятие V
+310510 Common Common Mystic Ужасное проклятие V
 320100 Common Common Mystic Трясина I
 320110 Common Common Mystic Трясина I
 320200 Common Common Mystic Трясина II
 320210 Common Common Mystic Трясина II
+320300 Common Common Mystic Трясина III
+320310 Common Common Mystic Трясина III
+320400 Common Common Mystic Трясина IV
+320410 Common Common Mystic Трясина IV
+320500 Common Common Mystic Трясина V
+320510 Common Common Mystic Трясина V
+320600 Common Common Mystic Трясина VI
+320610 Common Common Mystic Трясина VI
 330100 Common Common Mystic Миньон-мститель I
 330200 Common Common Mystic Миньон-мститель II
 330300 Common Common Mystic Миньон-мститель III
@@ -943,6 +1351,8 @@
 331300 Common Common Mystic Миньон-мститель XIII
 331400 Common Common Mystic Миньон-мститель XIV
 331500 Common Common Mystic Миньон-мститель XV
+331600 Common Common Mystic Миньон-мститель XVI
+331700 Common Common Mystic Миньон-мститель XVII
 340100 Common Common Mystic Миньон-разрушитель I
 340200 Common Common Mystic Миньон-разрушитель II
 340300 Common Common Mystic Миньон-разрушитель III
@@ -951,17 +1361,31 @@
 340600 Common Common Mystic Миньон-разрушитель VI
 340700 Common Common Mystic Миньон-разрушитель VII
 340800 Common Common Mystic Миньон-разрушитель VIII
-350100 Common Common Mystic Приказ: Атака
-360100 Common Common Mystic Приказ: Следовать
+340900 Common Common Mystic Миньон-разрушитель IX
+341000 Common Common Mystic Миньон-разрушитель X
+341100 Common Common Mystic Миньон-разрушитель XI
+341200 Common Common Mystic Миньон-разрушитель XII
+341300 Common Common Mystic Миньон-разрушитель XIII
+341400 Common Common Mystic Миньон-разрушитель XIV
+341500 Common Common Mystic Миньон-разрушитель XV
+341600 Common Common Mystic Миньон-разрушитель XVI
+350100 Common Common Mystic Приказ: Атака I
+360100 Common Common Mystic Приказ: Следовать I
 370100 Common Common Mystic Оберегающий тотем I
 370200 Common Common Mystic Оберегающий тотем II
-380100 Common Common Mystic Тотем оцепенения
-390100 Common Common Mystic Тотем скорости
-400100 Common Common Mystic Тотем нападения
-410100 Common Common Mystic Зараза
-410110 Common Common Mystic Зараза
-420100 Common Common Mystic Возвратный разряд
-420120 Common Common Mystic Возвратный разряд
+370300 Common Common Mystic Оберегающий тотем III
+370400 Common Common Mystic Оберегающий тотем IV
+370500 Common Common Mystic Оберегающий тотем V
+380100 Common Common Mystic Тотем оцепенения I
+380200 Common Common Mystic Тотем оцепенения II
+390100 Common Common Mystic Тотем скорости I
+390200 Common Common Mystic Тотем скорости II
+400100 Common Common Mystic Тотем нападения I
+400200 Common Common Mystic Тотем нападения II
+410100 Common Common Mystic Зараза I
+410110 Common Common Mystic Зараза I
+420100 Common Common Mystic Возвратный разряд I
+420120 Common Common Mystic Возвратный разряд I
 10100 Common Common Gunner Выстрел I
 10101 Common Common Gunner Выстрел I
 10102 Common Common Gunner Выстрел I
@@ -1126,6 +1550,12 @@
 40903 Common Common Gunner Удар прикладом IX
 40904 Common Common Gunner Удар прикладом IX
 40930 Common Common Gunner Удар прикладом IX
+41000 Common Common Gunner Удар прикладом X
+41001 Common Common Gunner Удар прикладом X
+41002 Common Common Gunner Удар прикладом X
+41003 Common Common Gunner Удар прикладом X
+41004 Common Common Gunner Удар прикладом X
+41030 Common Common Gunner Удар прикладом X
 50100 Common Common Gunner Заградительный огонь I
 50101 Common Common Gunner Заградительный огонь I
 50200 Common Common Gunner Заградительный огонь II
@@ -1376,7 +1806,15 @@
 100223 Common Common Gunner Граната II
 100224 Common Common Gunner Граната II
 100230 Common Common Gunner Граната II
-100300 Common Common Gunner Граната III
+100300 Common Common Gunner Граната II
+100301 Common Common Gunner Граната III
+100302 Common Common Gunner Граната III
+100320 Common Common Gunner Граната III
+100321 Common Common Gunner Граната III
+100322 Common Common Gunner Граната III
+100323 Common Common Gunner Граната III
+100324 Common Common Gunner Граната III
+100330 Common Common Gunner Граната III
 100400 Common Common Gunner Граната IV
 100401 Common Common Gunner Граната IV
 100402 Common Common Gunner Граната IV
@@ -1500,6 +1938,7 @@
 120420 Common Common Gunner Электрическая бомба IV
 120520 Common Common Gunner Электрическая бомба V
 120620 Common Common Gunner Электрическая бомба VI
+120720 Common Common Gunner Электрическая бомба VII
 130100 Common Common Gunner Месть Балдера I
 130101 Common Common Gunner Месть Балдера I
 130102 Common Common Gunner Месть Балдера I
@@ -1545,72 +1984,72 @@
 150901 Common Common Gunner Перезарядка IX
 150902 Common Common Gunner Перезарядка IX
 150930 Common Common Gunner Перезарядка IX
-180100 Common Common Gunner РП-1
-180101 Common Common Gunner РП-1
-180102 Common Common Gunner РП-1
-180120 Common Common Gunner РП-1
-180121 Common Common Gunner РП-1
-180122 Common Common Gunner РП-1
-180200 Common Common Gunner РП-2
-180201 Common Common Gunner РП-2
-180202 Common Common Gunner РП-2
-180220 Common Common Gunner РП-2
-180221 Common Common Gunner РП-2
-180222 Common Common Gunner РП-2
-180300 Common Common Gunner РП-3
-180301 Common Common Gunner РП-3
-180302 Common Common Gunner РП-3
-180320 Common Common Gunner РП-3
-180321 Common Common Gunner РП-3
-180322 Common Common Gunner РП-3
-180400 Common Common Gunner РП-4
-180401 Common Common Gunner РП-4
-180402 Common Common Gunner РП-4
-180420 Common Common Gunner РП-4
-180421 Common Common Gunner РП-4
-180422 Common Common Gunner РП-4
-180500 Common Common Gunner РП-5
-180501 Common Common Gunner РП-5
-180502 Common Common Gunner РП-5
-180520 Common Common Gunner РП-5
-180521 Common Common Gunner РП-5
-180522 Common Common Gunner РП-5
-180600 Common Common Gunner РП-6
-180601 Common Common Gunner РП-6
-180602 Common Common Gunner РП-6
-180620 Common Common Gunner РП-6
-180621 Common Common Gunner РП-6
-180622 Common Common Gunner РП-6
-180700 Common Common Gunner РП-7
-180701 Common Common Gunner РП-7
-180702 Common Common Gunner РП-7
-180720 Common Common Gunner РП-7
-180721 Common Common Gunner РП-7
-180722 Common Common Gunner РП-7
-190100 Common Common Gunner СТ-1
-190101 Common Common Gunner СТ-1
-190102 Common Common Gunner СТ-1
-190120 Common Common Gunner СТ-1
-190121 Common Common Gunner СТ-1
-190130 Common Common Gunner СТ-1
-190200 Common Common Gunner СТ-2
-190201 Common Common Gunner СТ-2
-190202 Common Common Gunner СТ-2
-190220 Common Common Gunner СТ-2
-190221 Common Common Gunner СТ-2
-190230 Common Common Gunner СТ-2
-190300 Common Common Gunner СТ-3
-190301 Common Common Gunner СТ-3
-190302 Common Common Gunner СТ-3
-190320 Common Common Gunner СТ-3
-190321 Common Common Gunner СТ-3
-190330 Common Common Gunner СТ-3
-190400 Common Common Gunner СТ-4
-190401 Common Common Gunner СТ-4
-190402 Common Common Gunner СТ-4
-190420 Common Common Gunner СТ-4
-190421 Common Common Gunner СТ-4
-190430 Common Common Gunner СТ-4
+180100 Common Common Gunner РП-1 I
+180101 Common Common Gunner РП-1 I
+180102 Common Common Gunner РП-1 I
+180120 Common Common Gunner РП-1 I
+180121 Common Common Gunner РП-1 I
+180122 Common Common Gunner РП-1 I
+180200 Common Common Gunner РП-2 II
+180201 Common Common Gunner РП-1 II
+180202 Common Common Gunner РП-1 II
+180220 Common Common Gunner РП-1 II
+180221 Common Common Gunner РП-1 II
+180222 Common Common Gunner РП-1 II
+180300 Common Common Gunner РП-3 III
+180301 Common Common Gunner РП-1 III
+180302 Common Common Gunner РП-1 III
+180320 Common Common Gunner РП-1 III
+180321 Common Common Gunner РП-1 III
+180322 Common Common Gunner РП-1 III
+180400 Common Common Gunner РП-4 IV
+180401 Common Common Gunner РП-1 IV
+180402 Common Common Gunner РП-1 IV
+180420 Common Common Gunner РП-1 IV
+180421 Common Common Gunner РП-1 IV
+180422 Common Common Gunner РП-1 IV
+180500 Common Common Gunner РП-5 V
+180501 Common Common Gunner РП-1 V
+180502 Common Common Gunner РП-1 V
+180520 Common Common Gunner РП-1 V
+180521 Common Common Gunner РП-1 V
+180522 Common Common Gunner РП-1 V
+180600 Common Common Gunner РП-6 VI
+180601 Common Common Gunner РП-1 VI
+180602 Common Common Gunner РП-1 VI
+180620 Common Common Gunner РП-1 VI
+180621 Common Common Gunner РП-1 VI
+180622 Common Common Gunner РП-1 VI
+180700 Common Common Gunner РП-7 VII
+180701 Common Common Gunner РП-1 VII
+180702 Common Common Gunner РП-1 VII
+180720 Common Common Gunner РП-1 VII
+180721 Common Common Gunner РП-1 VII
+180722 Common Common Gunner РП-1 VII
+190100 Common Common Gunner СТ-1 I
+190101 Common Common Gunner СТ-1 I
+190102 Common Common Gunner СТ-1 I
+190120 Common Common Gunner СТ-1 I
+190121 Common Common Gunner СТ-1 I
+190130 Common Common Gunner СТ-1 I
+190200 Common Common Gunner СТ-2 II
+190201 Common Common Gunner СТ-1 II
+190202 Common Common Gunner СТ-1 II
+190220 Common Common Gunner СТ-1 II
+190221 Common Common Gunner СТ-1 II
+190230 Common Common Gunner СТ-1 II
+190300 Common Common Gunner СТ-3 III
+190301 Common Common Gunner СТ-1 III
+190302 Common Common Gunner СТ-1 III
+190320 Common Common Gunner СТ-1 III
+190321 Common Common Gunner СТ-1 III
+190330 Common Common Gunner СТ-1 III
+190400 Common Common Gunner СТ-4 IV
+190401 Common Common Gunner СТ-1 IV
+190402 Common Common Gunner СТ-1 IV
+190420 Common Common Gunner СТ-1 IV
+190421 Common Common Gunner СТ-1 IV
+190430 Common Common Gunner СТ-1 IV
 200100 Common Common Gunner Ответный удар I
 200200 Common Common Gunner Ответный удар II
 200300 Common Common Gunner Ответный удар III
@@ -1622,11 +2061,11 @@
 200900 Common Common Gunner Ответный удар IX
 201000 Common Common Gunner Ответный удар X
 210100 Common Common Gunner Команда: Возвращение I
-210200 Common Common Gunner Команда: Возвращение II
-210300 Common Common Gunner Команда: Возвращение III
-220100 Common Common Gunner Команда: Самоуничтожение
-230100 Common Common Gunner Команда: Стоять/Следовать
-400100 Common Common Gunner Перезарядка с перекатом
+210200 Common Common Gunner Команда: Возвращение I
+210300 Common Common Gunner Команда: Возвращение I
+220100 Common Common Gunner Команда: Самоуничтожение I
+230100 Common Common Gunner Команда: Стоять/Следовать I
+400100 Common Common Gunner Перезарядка с перекатом I
 10100 Common Common Brawler Серия ударов I
 10101 Common Common Brawler Серия ударов I
 10102 Common Common Brawler Серия ударов I
@@ -1711,126 +2150,126 @@
 11230 Common Common Brawler Серия ударов XII
 11231 Common Common Brawler Серия ударов XII
 11232 Common Common Brawler Серия ударов XII
-20100 Common Common Brawler Сильный удар I (защита)
-20101 Common Common Brawler Сильный удар I (защита)
-20102 Common Common Brawler Сильный удар I (защита)
-20103 Common Common Brawler Сильный удар I (защита)
-20104 Common Common Brawler Сильный удар I (защита)
-20110 Common Common Brawler Сильный удар I (защита)
-20111 Common Common Brawler Сильный удар I (защита)
-20112 Common Common Brawler Сильный удар I (защита)
-20200 Common Common Brawler Сильный удар II (защита)
-20201 Common Common Brawler Сильный удар II (защита)
-20202 Common Common Brawler Сильный удар II (защита)
-20203 Common Common Brawler Сильный удар II (защита)
-20204 Common Common Brawler Сильный удар II (защита)
-20210 Common Common Brawler Сильный удар II (защита)
-20211 Common Common Brawler Сильный удар II (защита)
-20212 Common Common Brawler Сильный удар II (защита)
-20300 Common Common Brawler Сильный удар III (защита)
-20301 Common Common Brawler Сильный удар III (защита)
-20302 Common Common Brawler Сильный удар III (защита)
-20303 Common Common Brawler Сильный удар III (защита)
-20304 Common Common Brawler Сильный удар III (защита)
-20310 Common Common Brawler Сильный удар III (защита)
-20311 Common Common Brawler Сильный удар III (защита)
-20312 Common Common Brawler Сильный удар III (защита)
-20400 Common Common Brawler Сильный удар IV (защита)
-20401 Common Common Brawler Сильный удар IV (защита)
-20402 Common Common Brawler Сильный удар IV (защита)
-20403 Common Common Brawler Сильный удар IV (защита)
-20404 Common Common Brawler Сильный удар IV (защита)
-20410 Common Common Brawler Сильный удар IV (защита)
-20411 Common Common Brawler Сильный удар IV (защита)
-20412 Common Common Brawler Сильный удар IV (защита)
-20500 Common Common Brawler Сильный удар V (защита)
-20501 Common Common Brawler Сильный удар V (защита)
-20502 Common Common Brawler Сильный удар V (защита)
-20503 Common Common Brawler Сильный удар V (защита)
-20504 Common Common Brawler Сильный удар V (защита)
-20510 Common Common Brawler Сильный удар V (защита)
-20511 Common Common Brawler Сильный удар V (защита)
-20512 Common Common Brawler Сильный удар V (защита)
-20600 Common Common Brawler Сильный удар VI (защита)
-20601 Common Common Brawler Сильный удар VI (защита)
-20602 Common Common Brawler Сильный удар VI (защита)
-20603 Common Common Brawler Сильный удар VI (защита)
-20604 Common Common Brawler Сильный удар VI (защита)
-20610 Common Common Brawler Сильный удар VI (защита)
-20611 Common Common Brawler Сильный удар VI (защита)
-20612 Common Common Brawler Сильный удар VI (защита)
-20700 Common Common Brawler Сильный удар VII (защита)
-20701 Common Common Brawler Сильный удар VII (защита)
-20702 Common Common Brawler Сильный удар VII (защита)
-20703 Common Common Brawler Сильный удар VII (защита)
-20704 Common Common Brawler Сильный удар VII (защита)
-20710 Common Common Brawler Сильный удар VII (защита)
-20711 Common Common Brawler Сильный удар VII (защита)
-20712 Common Common Brawler Сильный удар VII (защита)
-20800 Common Common Brawler Сильный удар VIII (защита)
-20801 Common Common Brawler Сильный удар VIII (защита)
-20802 Common Common Brawler Сильный удар VIII (защита)
-20803 Common Common Brawler Сильный удар VIII (защита)
-20804 Common Common Brawler Сильный удар VIII (защита)
-20810 Common Common Brawler Сильный удар VIII (защита)
-20811 Common Common Brawler Сильный удар VIII (защита)
-20812 Common Common Brawler Сильный удар VIII (защита)
-20900 Common Common Brawler Сильный удар IX (защита)
-20901 Common Common Brawler Сильный удар IX (защита)
-20902 Common Common Brawler Сильный удар IX (защита)
-20903 Common Common Brawler Сильный удар IX (защита)
-20904 Common Common Brawler Сильный удар IX (защита)
-20910 Common Common Brawler Сильный удар IX (защита)
-20911 Common Common Brawler Сильный удар IX (защита)
-20912 Common Common Brawler Сильный удар IX (защита)
-21000 Common Common Brawler Сильный удар X (защита)
-21001 Common Common Brawler Сильный удар X (защита)
-21002 Common Common Brawler Сильный удар X (защита)
-21003 Common Common Brawler Сильный удар X (защита)
-21004 Common Common Brawler Сильный удар X (защита)
-21010 Common Common Brawler Сильный удар X (защита)
-21011 Common Common Brawler Сильный удар X (защита)
-21012 Common Common Brawler Сильный удар X (защита)
-21100 Common Common Brawler Сильный удар XI (защита)
-21101 Common Common Brawler Сильный удар XI (защита)
-21102 Common Common Brawler Сильный удар XI (защита)
-21103 Common Common Brawler Сильный удар XI (защита)
-21104 Common Common Brawler Сильный удар XI (защита)
-21110 Common Common Brawler Сильный удар XI (защита)
-21111 Common Common Brawler Сильный удар XI (защита)
-21112 Common Common Brawler Сильный удар XI (защита)
-21200 Common Common Brawler Сильный удар XII (защита)
-21201 Common Common Brawler Сильный удар XII (защита)
-21202 Common Common Brawler Сильный удар XII (защита)
-21203 Common Common Brawler Сильный удар XII (защита)
-21204 Common Common Brawler Сильный удар XII (защита)
-21210 Common Common Brawler Сильный удар XII (защита)
-21211 Common Common Brawler Сильный удар XII (защита)
-21212 Common Common Brawler Сильный удар XII (защита)
-30100 Common Common Brawler Яростный бросок I (защита)
-30101 Common Common Brawler Яростный бросок I (защита)
-30200 Common Common Brawler Яростный бросок II (защита)
-30201 Common Common Brawler Яростный бросок II (защита)
-40100 Common Common Brawler Сильный удар о землю I (защита)
-40130 Common Common Brawler Сильный удар о землю I (защита)
-40200 Common Common Brawler Сильный удар о землю II (защита)
-40230 Common Common Brawler Сильный удар о землю II (защита)
-40300 Common Common Brawler Сильный удар о землю III (защита)
-40330 Common Common Brawler Сильный удар о землю III (защита)
-40400 Common Common Brawler Сильный удар о землю IV (защита)
-40430 Common Common Brawler Сильный удар о землю IV (защита)
-40500 Common Common Brawler Сильный удар о землю V (защита)
-40530 Common Common Brawler Сильный удар о землю V (защита)
-40600 Common Common Brawler Сильный удар о землю VI (защита)
-40630 Common Common Brawler Сильный удар о землю VI (защита)
-40700 Common Common Brawler Сильный удар о землю VII (защита)
-40730 Common Common Brawler Сильный удар о землю VII (защита)
-40800 Common Common Brawler Сильный удар о землю VIII (защита)
-40830 Common Common Brawler Сильный удар о землю VIII (защита)
-40900 Common Common Brawler Сильный удар о землю IX (защита)
-40930 Common Common Brawler Сильный удар о землю IX (защита)
-41000 Common Common Brawler Сильный удар о землю X (защита)
-41030 Common Common Brawler Сильный удар о землю X (защита)
+20100 Common Common Brawler Сильный удар I (защита) I
+20101 Common Common Brawler Сильный удар I (защита) I
+20102 Common Common Brawler Сильный удар I (защита) I
+20103 Common Common Brawler Сильный удар I (защита) I
+20104 Common Common Brawler Сильный удар I (защита) I
+20110 Common Common Brawler Сильный удар I (защита) I
+20111 Common Common Brawler Сильный удар I (защита) I
+20112 Common Common Brawler Сильный удар I (защита) I
+20200 Common Common Brawler Сильный удар II (защита) II
+20201 Common Common Brawler Сильный удар II (защита) II
+20202 Common Common Brawler Сильный удар II (защита) II
+20203 Common Common Brawler Сильный удар II (защита) II
+20204 Common Common Brawler Сильный удар II (защита) II
+20210 Common Common Brawler Сильный удар I (защита) II
+20211 Common Common Brawler Сильный удар I (защита) II
+20212 Common Common Brawler Сильный удар I (защита) II
+20300 Common Common Brawler Сильный удар III (защита) III
+20301 Common Common Brawler Сильный удар III (защита) III
+20302 Common Common Brawler Сильный удар III (защита) III
+20303 Common Common Brawler Сильный удар III (защита) III
+20304 Common Common Brawler Сильный удар III (защита) III
+20310 Common Common Brawler Сильный удар I (защита) III
+20311 Common Common Brawler Сильный удар I (защита) III
+20312 Common Common Brawler Сильный удар I (защита) III
+20400 Common Common Brawler Сильный удар IV (защита) IV
+20401 Common Common Brawler Сильный удар IV (защита) IV
+20402 Common Common Brawler Сильный удар IV (защита) IV
+20403 Common Common Brawler Сильный удар IV (защита) IV
+20404 Common Common Brawler Сильный удар IV (защита) IV
+20410 Common Common Brawler Сильный удар I (защита) IV
+20411 Common Common Brawler Сильный удар I (защита) IV
+20412 Common Common Brawler Сильный удар I (защита) IV
+20500 Common Common Brawler Сильный удар V (защита) V
+20501 Common Common Brawler Сильный удар V (защита) V
+20502 Common Common Brawler Сильный удар V (защита) V
+20503 Common Common Brawler Сильный удар V (защита) V
+20504 Common Common Brawler Сильный удар V (защита) V
+20510 Common Common Brawler Сильный удар I (защита) V
+20511 Common Common Brawler Сильный удар I (защита) V
+20512 Common Common Brawler Сильный удар I (защита) V
+20600 Common Common Brawler Сильный удар VI (защита) VI
+20601 Common Common Brawler Сильный удар VI (защита) VI
+20602 Common Common Brawler Сильный удар VI (защита) VI
+20603 Common Common Brawler Сильный удар VI (защита) VI
+20604 Common Common Brawler Сильный удар VI (защита) VI
+20610 Common Common Brawler Сильный удар I (защита) VI
+20611 Common Common Brawler Сильный удар I (защита) VI
+20612 Common Common Brawler Сильный удар I (защита) VI
+20700 Common Common Brawler Сильный удар VII (защита) VII
+20701 Common Common Brawler Сильный удар VII (защита) VII
+20702 Common Common Brawler Сильный удар VII (защита) VII
+20703 Common Common Brawler Сильный удар VII (защита) VII
+20704 Common Common Brawler Сильный удар VII (защита) VII
+20710 Common Common Brawler Сильный удар I (защита) VII
+20711 Common Common Brawler Сильный удар I (защита) VII
+20712 Common Common Brawler Сильный удар I (защита) VII
+20800 Common Common Brawler Сильный удар VIII (защита) VIII
+20801 Common Common Brawler Сильный удар VIII (защита) VIII
+20802 Common Common Brawler Сильный удар VIII (защита) VIII
+20803 Common Common Brawler Сильный удар VIII (защита) VIII
+20804 Common Common Brawler Сильный удар VIII (защита) VIII
+20810 Common Common Brawler Сильный удар I (защита) VIII
+20811 Common Common Brawler Сильный удар I (защита) VIII
+20812 Common Common Brawler Сильный удар I (защита) VIII
+20900 Common Common Brawler Сильный удар IX (защита) IX
+20901 Common Common Brawler Сильный удар IX (защита) IX
+20902 Common Common Brawler Сильный удар IX (защита) IX
+20903 Common Common Brawler Сильный удар IX (защита) IX
+20904 Common Common Brawler Сильный удар IX (защита) IX
+20910 Common Common Brawler Сильный удар I (защита) IX
+20911 Common Common Brawler Сильный удар I (защита) IX
+20912 Common Common Brawler Сильный удар I (защита) IX
+21000 Common Common Brawler Сильный удар X (защита) X
+21001 Common Common Brawler Сильный удар X (защита) X
+21002 Common Common Brawler Сильный удар X (защита) X
+21003 Common Common Brawler Сильный удар X (защита) X
+21004 Common Common Brawler Сильный удар X (защита) X
+21010 Common Common Brawler Сильный удар I (защита) X
+21011 Common Common Brawler Сильный удар I (защита) X
+21012 Common Common Brawler Сильный удар I (защита) X
+21100 Common Common Brawler Сильный удар XI (защита) XI
+21101 Common Common Brawler Сильный удар XI (защита) XI
+21102 Common Common Brawler Сильный удар XI (защита) XI
+21103 Common Common Brawler Сильный удар XI (защита) XI
+21104 Common Common Brawler Сильный удар XI (защита) XI
+21110 Common Common Brawler Сильный удар I (защита) XI
+21111 Common Common Brawler Сильный удар I (защита) XI
+21112 Common Common Brawler Сильный удар I (защита) XI
+21200 Common Common Brawler Сильный удар XII (защита) XII
+21201 Common Common Brawler Сильный удар XII (защита) XII
+21202 Common Common Brawler Сильный удар XII (защита) XII
+21203 Common Common Brawler Сильный удар XII (защита) XII
+21204 Common Common Brawler Сильный удар XII (защита) XII
+21210 Common Common Brawler Сильный удар I (защита) XII
+21211 Common Common Brawler Сильный удар I (защита) XII
+21212 Common Common Brawler Сильный удар I (защита) XII
+30100 Common Common Brawler Яростный бросок I (защита) I
+30101 Common Common Brawler Яростный бросок I (защита) I
+30200 Common Common Brawler Яростный бросок II (защита) II
+30201 Common Common Brawler Яростный бросок I (защита) II
+40100 Common Common Brawler Сильный удар о землю I (защита) I
+40130 Common Common Brawler Сильный удар о землю I (защита) I
+40200 Common Common Brawler Сильный удар о землю II (защита) II
+40230 Common Common Brawler Сильный удар о землю I (защита) II
+40300 Common Common Brawler Сильный удар о землю III (защита) III
+40330 Common Common Brawler Сильный удар о землю I (защита) III
+40400 Common Common Brawler Сильный удар о землю IV (защита) IV
+40430 Common Common Brawler Сильный удар о землю I (защита) IV
+40500 Common Common Brawler Сильный удар о землю V (защита) V
+40530 Common Common Brawler Сильный удар о землю I (защита) V
+40600 Common Common Brawler Сильный удар о землю VI (защита) VI
+40630 Common Common Brawler Сильный удар о землю I (защита) VI
+40700 Common Common Brawler Сильный удар о землю VII (защита) VII
+40730 Common Common Brawler Сильный удар о землю I (защита) VII
+40800 Common Common Brawler Сильный удар о землю VIII (защита) VIII
+40830 Common Common Brawler Сильный удар о землю I (защита) VIII
+40900 Common Common Brawler Сильный удар о землю IX (защита) IX
+40930 Common Common Brawler Сильный удар о землю I (защита) IX
+41000 Common Common Brawler Сильный удар о землю X (защита) X
+41030 Common Common Brawler Сильный удар о землю I (защита) X
 50100 Common Common Brawler Яростный прорыв I
 50200 Common Common Brawler Яростный прорыв II
 50300 Common Common Brawler Яростный прорыв III
@@ -2029,24 +2468,29 @@
 91102 Common Common Brawler Серия взрывных ударов XI
 91130 Common Common Brawler Серия взрывных ударов XI
 91131 Common Common Brawler Серия взрывных ударов XI
-100100 Common Common Brawler Контрудар I (защита)
-100130 Common Common Brawler Контрудар I (защита)
-100200 Common Common Brawler Контрудар II (защита)
-100230 Common Common Brawler Контрудар II (защита)
-100300 Common Common Brawler Контрудар III (защита)
-100330 Common Common Brawler Контрудар III (защита)
-100400 Common Common Brawler Контрудар IV (защита)
-100430 Common Common Brawler Контрудар IV (защита)
-100500 Common Common Brawler Контрудар V (защита)
-100530 Common Common Brawler Контрудар V (защита)
-100600 Common Common Brawler Контрудар VI (защита)
-100630 Common Common Brawler Контрудар VI (защита)
-100700 Common Common Brawler Контрудар VII (защита)
-100730 Common Common Brawler Контрудар VII (защита)
-100800 Common Common Brawler Контрудар VIII (защита)
-100830 Common Common Brawler Контрудар VIII (защита)
-100900 Common Common Brawler Контрудар IX (защита)
-100930 Common Common Brawler Контрудар IX (защита)
+91200 Common Common Brawler Серия взрывных ударов XII
+91201 Common Common Brawler Серия взрывных ударов XII
+91202 Common Common Brawler Серия взрывных ударов XII
+91230 Common Common Brawler Серия взрывных ударов XII
+91231 Common Common Brawler Серия взрывных ударов XII
+100100 Common Common Brawler Контрудар I (защита) I
+100130 Common Common Brawler Контрудар I (защита) I
+100200 Common Common Brawler Контрудар II (защита) II
+100230 Common Common Brawler Контрудар I (защита) II
+100300 Common Common Brawler Контрудар III (защита) III
+100330 Common Common Brawler Контрудар I (защита) III
+100400 Common Common Brawler Контрудар IV (защита) IV
+100430 Common Common Brawler Контрудар I (защита) IV
+100500 Common Common Brawler Контрудар V (защита) V
+100530 Common Common Brawler Контрудар I (защита) V
+100600 Common Common Brawler Контрудар VI (защита) VI
+100630 Common Common Brawler Контрудар I (защита) VI
+100700 Common Common Brawler Контрудар VII (защита) VII
+100730 Common Common Brawler Контрудар I (защита) VII
+100800 Common Common Brawler Контрудар VIII (защита) VIII
+100830 Common Common Brawler Контрудар I (защита) VIII
+100900 Common Common Brawler Контрудар IX (защита) IX
+100930 Common Common Brawler Контрудар I (защита) IX
 120100 Common Common Brawler Ответный удар I
 120200 Common Common Brawler Ответный удар II
 120300 Common Common Brawler Ответный удар III
@@ -2084,10 +2528,10 @@
 130900 Common Common Brawler Провокация IX
 130901 Common Common Brawler Провокация IX
 130902 Common Common Brawler Провокация IX
-140100 Common Common Brawler Вспышка гнева
-140101 Common Common Brawler Вспышка гнева
-140102 Common Common Brawler Вспышка гнева
-140130 Common Common Brawler Вспышка гнева
+140100 Common Common Brawler Вспышка гнева I
+140101 Common Common Brawler Вспышка гнева I
+140102 Common Common Brawler Вспышка гнева I
+140130 Common Common Brawler Вспышка гнева I
 150100 Common Common Brawler Беспощадный удар I
 150130 Common Common Brawler Беспощадный удар I
 150200 Common Common Brawler Беспощадный удар II
@@ -2128,33 +2572,33 @@
 160501 Common Common Brawler Удар в воздухе V
 160502 Common Common Brawler Удар в воздухе V
 160530 Common Common Brawler Удар в воздухе V
-170100 Common Common Brawler Яростный удар сверху I (защита)
-170110 Common Common Brawler Яростный удар сверху I (защита)
-170200 Common Common Brawler Яростный удар сверху II (защита)
-170210 Common Common Brawler Яростный удар сверху II (защита)
-170300 Common Common Brawler Яростный удар сверху III (защита)
-170310 Common Common Brawler Яростный удар сверху III (защита)
-170400 Common Common Brawler Яростный удар сверху IV (защита)
-170410 Common Common Brawler Яростный удар сверху IV (защита)
-170500 Common Common Brawler Яростный удар сверху V (защита)
-170510 Common Common Brawler Яростный удар сверху V (защита)
-170600 Common Common Brawler Яростный удар сверху VI (защита)
-170610 Common Common Brawler Яростный удар сверху VI (защита)
-170700 Common Common Brawler Яростный удар сверху VII (защита)
-170710 Common Common Brawler Яростный удар сверху VII (защита)
-170800 Common Common Brawler Яростный удар сверху VIII (защита)
-170810 Common Common Brawler Яростный удар сверху VIII (защита)
-170900 Common Common Brawler Яростный удар сверху IX (защита)
-170910 Common Common Brawler Яростный удар сверху IX (защита)
-171000 Common Common Brawler Яростный удар сверху X (защита)
-171010 Common Common Brawler Яростный удар сверху X (защита)
-180100 Common Common Brawler Сила гиганта (защита)
-180101 Common Common Brawler Сила гиганта (защита)
-180102 Common Common Brawler Сила гиганта (защита)
-180130 Common Common Brawler Сила гиганта (защита)
-190100 Common Common Brawler Спокойствие
-190101 Common Common Brawler Спокойствие
-190102 Common Common Brawler Спокойствие
+170100 Common Common Brawler Яростный удар сверху I (защита) I
+170110 Common Common Brawler Яростный удар сверху I (защита) I
+170200 Common Common Brawler Яростный удар сверху II (защита) II
+170210 Common Common Brawler Яростный удар сверху I (защита) II
+170300 Common Common Brawler Яростный удар сверху III (защита) III
+170310 Common Common Brawler Яростный удар сверху I (защита) III
+170400 Common Common Brawler Яростный удар сверху IV (защита) IV
+170410 Common Common Brawler Яростный удар сверху I (защита) IV
+170500 Common Common Brawler Яростный удар сверху V (защита) V
+170510 Common Common Brawler Яростный удар сверху I (защита) V
+170600 Common Common Brawler Яростный удар сверху VI (защита) VI
+170610 Common Common Brawler Яростный удар сверху I (защита) VI
+170700 Common Common Brawler Яростный удар сверху VII (защита) VII
+170710 Common Common Brawler Яростный удар сверху I (защита) VII
+170800 Common Common Brawler Яростный удар сверху VIII (защита) VIII
+170810 Common Common Brawler Яростный удар сверху I (защита) VIII
+170900 Common Common Brawler Яростный удар сверху IX (защита) IX
+170910 Common Common Brawler Яростный удар сверху I (защита) IX
+171000 Common Common Brawler Яростный удар сверху X (защита) X
+171010 Common Common Brawler Яростный удар сверху I (защита) X
+180100 Common Common Brawler Сила гиганта (защита) I
+180101 Common Common Brawler Сила гиганта (защита) I
+180102 Common Common Brawler Сила гиганта (защита) I
+180130 Common Common Brawler Сила гиганта (защита) I
+190100 Common Common Brawler Спокойствие I
+190101 Common Common Brawler Спокойствие I
+190102 Common Common Brawler Спокойствие I
 200100 Common Common Brawler Серия ударов в воздухе I
 200200 Common Common Brawler Серия ударов в воздухе II
 200300 Common Common Brawler Серия ударов в воздухе III
@@ -2162,10 +2606,10 @@
 200500 Common Common Brawler Серия ударов в воздухе V
 200600 Common Common Brawler Серия ударов в воздухе VI
 200700 Common Common Brawler Серия ударов в воздухе VII
-210100 Common Common Brawler Переполняющая ярость
-210101 Common Common Brawler Переполняющая ярость
-210102 Common Common Brawler Переполняющая ярость
-400100 Common Common Brawler Мгновенный прорыв (уклонение)
+210100 Common Common Brawler Переполняющая ярость I
+210101 Common Common Brawler Переполняющая ярость I
+210102 Common Common Brawler Переполняющая ярость I
+400100 Common Common Brawler Мгновенный прорыв (уклонение) I
 10100 Common Common Lancer Комбо-атака I
 10101 Common Common Lancer Комбо-атака I
 10102 Common Common Lancer Комбо-атака I
@@ -2202,8 +2646,18 @@
 11200 Common Common Lancer Комбо-атака XII
 11201 Common Common Lancer Комбо-атака XII
 11202 Common Common Lancer Комбо-атака XII
+11300 Common Common Lancer Комбо-атака XIII
+11301 Common Common Lancer Комбо-атака XIII
+11302 Common Common Lancer Комбо-атака XIII
+11400 Common Common Lancer Комбо-атака XIV
+11401 Common Common Lancer Комбо-атака XIV
+11402 Common Common Lancer Комбо-атака XIV
+11500 Common Common Lancer Комбо-атака XV
+11501 Common Common Lancer Комбо-атака XV
+11502 Common Common Lancer Комбо-атака XV
 20100 Common Common Lancer Незыблемость I
 20200 Common Common Lancer Незыблемость II
+20300 Common Common Lancer Незыблемость III
 30100 Common Common Lancer Натиск I
 30130 Common Common Lancer Натиск I
 30200 Common Common Lancer Натиск II
@@ -2220,6 +2674,20 @@
 30730 Common Common Lancer Натиск VII
 30800 Common Common Lancer Натиск VIII
 30830 Common Common Lancer Натиск VIII
+30900 Common Common Lancer Натиск IX
+30930 Common Common Lancer Натиск IX
+31000 Common Common Lancer Натиск X
+31030 Common Common Lancer Натиск X
+31100 Common Common Lancer Натиск XI
+31130 Common Common Lancer Натиск XI
+31200 Common Common Lancer Натиск XII
+31230 Common Common Lancer Натиск XII
+31300 Common Common Lancer Натиск XIII
+31330 Common Common Lancer Натиск XIII
+31400 Common Common Lancer Натиск XIV
+31430 Common Common Lancer Натиск XIV
+31500 Common Common Lancer Натиск XV
+31530 Common Common Lancer Натиск XV
 40100 Common Common Lancer Агрессивный крик I
 40200 Common Common Lancer Агрессивный крик II
 40300 Common Common Lancer Агрессивный крик III
@@ -2229,10 +2697,26 @@
 40700 Common Common Lancer Агрессивный крик VII
 40800 Common Common Lancer Агрессивный крик VIII
 40900 Common Common Lancer Агрессивный крик IX
-50100 Common Common Lancer Удар щитом
+41000 Common Common Lancer Агрессивный крик X
+41100 Common Common Lancer Агрессивный крик XI
+41200 Common Common Lancer Агрессивный крик XII
+41300 Common Common Lancer Агрессивный крик XIII
+50100 Common Common Lancer Удар щитом I
+50200 Common Common Lancer Удар щитом II
+50300 Common Common Lancer Удар щитом III
+50400 Common Common Lancer Удар щитом IV
+50500 Common Common Lancer Удар щитом V
+50600 Common Common Lancer Удар щитом VI
+50700 Common Common Lancer Удар щитом VII
+50800 Common Common Lancer Удар щитом VIII
+50900 Common Common Lancer Удар щитом IX
+51000 Common Common Lancer Удар щитом X
+51100 Common Common Lancer Удар щитом XI
 70100 Common Common Lancer Клич стража I
 70200 Common Common Lancer Клич стража II
 70300 Common Common Lancer Клич стража III
+70400 Common Common Lancer Клич стража IV
+70500 Common Common Lancer Клич стража V
 80100 Common Common Lancer Контрудар I
 80200 Common Common Lancer Контрудар II
 80300 Common Common Lancer Контрудар III
@@ -2240,12 +2724,32 @@
 80500 Common Common Lancer Контрудар V
 80600 Common Common Lancer Контрудар VI
 80700 Common Common Lancer Контрудар VII
+80800 Common Common Lancer Контрудар VIII
+80900 Common Common Lancer Контрудар IX
+81000 Common Common Lancer Контрудар X
+81100 Common Common Lancer Контрудар XI
+81200 Common Common Lancer Контрудар XII
+81300 Common Common Lancer Контрудар XIII
+81400 Common Common Lancer Контрудар XIV
 90100 Common Common Lancer Гарпун I
 90200 Common Common Lancer Гарпун II
 90300 Common Common Lancer Гарпун III
+90400 Common Common Lancer Гарпун IV
+90500 Common Common Lancer Гарпун V
+90600 Common Common Lancer Гарпун VI
+90700 Common Common Lancer Гарпун VII
+90800 Common Common Lancer Гарпун VIII
+90900 Common Common Lancer Гарпун IX
+91000 Common Common Lancer Гарпун X
 100100 Common Common Lancer Изнурение I
 100200 Common Common Lancer Изнурение II
 100300 Common Common Lancer Изнурение III
+100400 Common Common Lancer Изнурение IV
+100500 Common Common Lancer Изнурение V
+100600 Common Common Lancer Изнурение VI
+100700 Common Common Lancer Изнурение VII
+100800 Common Common Lancer Изнурение VIII
+100900 Common Common Lancer Изнурение IX
 110100 Common Common Lancer Ответный удар I
 110200 Common Common Lancer Ответный удар II
 110300 Common Common Lancer Ответный удар III
@@ -2256,7 +2760,14 @@
 110800 Common Common Lancer Ответный удар VIII
 110900 Common Common Lancer Ответный удар IX
 111000 Common Common Lancer Ответный удар X
-120100 Common Common Lancer Вспышка гнева
+111100 Common Common Lancer Ответный удар XI
+111200 Common Common Lancer Ответный удар XII
+120100 Common Common Lancer Вспышка гнева I
+120200 Common Common Lancer Вспышка гнева II
+120300 Common Common Lancer Вспышка гнева III
+120400 Common Common Lancer Вспышка гнева IV
+120500 Common Common Lancer Вспышка гнева V
+120600 Common Common Lancer Вспышка гнева VI
 130100 Common Common Lancer Атака с выпадом I
 130130 Common Common Lancer Атака с выпадом I
 130200 Common Common Lancer Атака с выпадом II
@@ -2279,6 +2790,12 @@
 131030 Common Common Lancer Атака с выпадом X
 131100 Common Common Lancer Атака с выпадом XI
 131130 Common Common Lancer Атака с выпадом XI
+131200 Common Common Lancer Атака с выпадом XII
+131230 Common Common Lancer Атака с выпадом XII
+131300 Common Common Lancer Атака с выпадом XIII
+131330 Common Common Lancer Атака с выпадом XIII
+131400 Common Common Lancer Атака с выпадом XIV
+131430 Common Common Lancer Атака с выпадом XIV
 150100 Common Common Lancer Молниеносный бросок I
 150101 Common Common Lancer Молниеносный бросок I
 150200 Common Common Lancer Молниеносный бросок II
@@ -2299,6 +2816,12 @@
 150901 Common Common Lancer Молниеносный бросок IX
 151000 Common Common Lancer Молниеносный бросок X
 151001 Common Common Lancer Молниеносный бросок X
+151100 Common Common Lancer Молниеносный бросок XI
+151101 Common Common Lancer Молниеносный бросок XI
+151200 Common Common Lancer Молниеносный бросок XII
+151201 Common Common Lancer Молниеносный бросок XII
+151300 Common Common Lancer Молниеносный бросок XIII
+151301 Common Common Lancer Молниеносный бросок XIII
 160100 Common Common Lancer Второе дыхание I
 160200 Common Common Lancer Второе дыхание II
 160300 Common Common Lancer Второе дыхание III
@@ -2308,8 +2831,13 @@
 160700 Common Common Lancer Второе дыхание VII
 160800 Common Common Lancer Второе дыхание VIII
 160900 Common Common Lancer Второе дыхание IX
+161000 Common Common Lancer Второе дыхание X
+161100 Common Common Lancer Второе дыхание XI
+161200 Common Common Lancer Второе дыхание XII
 170100 Common Common Lancer Выброс адреналина I
 170200 Common Common Lancer Выброс адреналина II
+170300 Common Common Lancer Выброс адреналина III
+170400 Common Common Lancer Выброс адреналина IV
 180100 Common Common Lancer Штурм I
 180101 Common Common Lancer Штурм I
 180200 Common Common Lancer Штурм II
@@ -2332,22 +2860,43 @@
 181001 Common Common Lancer Штурм X
 181100 Common Common Lancer Штурм XI
 181101 Common Common Lancer Штурм XI
-190100 Common Common Lancer Клятва защиты
-200100 Common Common Lancer Грозный вал
+181200 Common Common Lancer Штурм XII
+181201 Common Common Lancer Штурм XII
+181300 Common Common Lancer Штурм XIII
+181301 Common Common Lancer Штурм XIII
+181400 Common Common Lancer Штурм XIV
+181401 Common Common Lancer Штурм XIV
+190100 Common Common Lancer Клятва защиты I
+190200 Common Common Lancer Клятва защиты II
+190300 Common Common Lancer Клятва защиты III
+190400 Common Common Lancer Клятва защиты IV
+200100 Common Common Lancer Грозный вал I
+200200 Common Common Lancer Грозный вал II
+200300 Common Common Lancer Грозный вал III
 210100 Common Common Lancer Калечащий удар I
 210200 Common Common Lancer Калечащий удар II
 210300 Common Common Lancer Калечащий удар III
 210400 Common Common Lancer Калечащий удар IV
+210500 Common Common Lancer Калечащий удар V
+210600 Common Common Lancer Калечащий удар VI
+210700 Common Common Lancer Калечащий удар VII
 220100 Common Common Lancer Железная воля I
 220200 Common Common Lancer Железная воля II
 220300 Common Common Lancer Железная воля III
 220400 Common Common Lancer Железная воля IV
 220500 Common Common Lancer Железная воля V
 220600 Common Common Lancer Железная воля VI
+220700 Common Common Lancer Железная воля VII
+220800 Common Common Lancer Железная воля VIII
 230100 Common Common Lancer Гарпун мастера I
 230200 Common Common Lancer Гарпун мастера II
-240100 Common Common Lancer Идеальный гарпун
-240120 Common Common Lancer Идеальный гарпун
+230300 Common Common Lancer Гарпун мастера III
+240100 Common Common Lancer Идеальный гарпун I
+240120 Common Common Lancer Идеальный гарпун I
+240200 Common Common Lancer Идеальный гарпун II
+240220 Common Common Lancer Идеальный гарпун II
+240300 Common Common Lancer Идеальный гарпун III
+240320 Common Common Lancer Идеальный гарпун III
 250100 Common Common Lancer Буйство силы I
 250130 Common Common Lancer Буйство силы I
 250200 Common Common Lancer Буйство силы II
@@ -2362,8 +2911,16 @@
 250630 Common Common Lancer Буйство силы VI
 250700 Common Common Lancer Буйство силы VII
 250730 Common Common Lancer Буйство силы VII
-260100 Common Common Lancer Отступление
-270100 Common Common Lancer Сзывающий клич
+250800 Common Common Lancer Буйство силы VIII
+250830 Common Common Lancer Буйство силы VIII
+250900 Common Common Lancer Буйство силы IX
+250930 Common Common Lancer Буйство силы IX
+251000 Common Common Lancer Буйство силы X
+251030 Common Common Lancer Буйство силы X
+260100 Common Common Lancer Отступление I
+260200 Common Common Lancer Отступление II
+260300 Common Common Lancer Отступление III
+270100 Common Common Lancer Сзывающий клич I
 10100 Common Common Priest Божественное сияние I
 10101 Common Common Priest Божественное сияние I
 10102 Common Common Priest Божественное сияние I
@@ -2460,6 +3017,30 @@
 11221 Common Common Priest Божественное сияние XII
 11222 Common Common Priest Божественное сияние XII
 11223 Common Common Priest Божественное сияние XII
+11300 Common Common Priest Божественное сияние XIII
+11301 Common Common Priest Божественное сияние XIII
+11302 Common Common Priest Божественное сияние XIII
+11303 Common Common Priest Божественное сияние XIII
+11320 Common Common Priest Божественное сияние XIII
+11321 Common Common Priest Божественное сияние XIII
+11322 Common Common Priest Божественное сияние XIII
+11323 Common Common Priest Божественное сияние XIII
+11400 Common Common Priest Божественное сияние XIV
+11401 Common Common Priest Божественное сияние XIV
+11402 Common Common Priest Божественное сияние XIV
+11403 Common Common Priest Божественное сияние XIV
+11420 Common Common Priest Божественное сияние XIV
+11421 Common Common Priest Божественное сияние XIV
+11422 Common Common Priest Божественное сияние XIV
+11423 Common Common Priest Божественное сияние XIV
+11500 Common Common Priest Божественное сияние XV
+11501 Common Common Priest Божественное сияние XV
+11502 Common Common Priest Божественное сияние XV
+11503 Common Common Priest Божественное сияние XV
+11520 Common Common Priest Божественное сияние XV
+11521 Common Common Priest Божественное сияние XV
+11522 Common Common Priest Божественное сияние XV
+11523 Common Common Priest Божественное сияние XV
 20100 Common Common Priest Круг регенерации I
 20200 Common Common Priest Круг регенерации II
 20300 Common Common Priest Круг регенерации III
@@ -2469,6 +3050,11 @@
 20700 Common Common Priest Круг регенерации VII
 20800 Common Common Priest Круг регенерации VIII
 20900 Common Common Priest Круг регенерации IX
+21000 Common Common Priest Круг регенерации X
+21100 Common Common Priest Круг регенерации XI
+21200 Common Common Priest Круг регенерации XII
+21300 Common Common Priest Круг регенерации XIII
+21400 Common Common Priest Круг регенерации XIV
 30100 Common Common Priest Круг исцеления I
 30200 Common Common Priest Круг исцеления II
 30300 Common Common Priest Круг исцеления III
@@ -2476,18 +3062,38 @@
 30500 Common Common Priest Круг исцеления V
 30600 Common Common Priest Круг исцеления VI
 30700 Common Common Priest Круг исцеления VII
+30800 Common Common Priest Круг исцеления VIII
+30900 Common Common Priest Круг исцеления IX
+31000 Common Common Priest Круг исцеления X
+31100 Common Common Priest Круг исцеления XI
+31200 Common Common Priest Круг исцеления XII
+31300 Common Common Priest Круг исцеления XIII
 50100 Common Common Priest Благословение Шакана I
 50200 Common Common Priest Благословение Шакана II
+50300 Common Common Priest Благословение Шакана III
+50400 Common Common Priest Благословение Шакана IV
+50500 Common Common Priest Благословение Шакана V
 60100 Common Common Priest Возведение I
 60200 Common Common Priest Возведение II
+60300 Common Common Priest Возведение III
+60400 Common Common Priest Возведение IV
+60500 Common Common Priest Возведение V
 70100 Common Common Priest Дремота I
 70120 Common Common Priest Дремота I
 70200 Common Common Priest Дремота II
 70220 Common Common Priest Дремота II
 70300 Common Common Priest Дремота III
 70320 Common Common Priest Дремота III
-80100 Common Common Priest Восстановление маны
-100100 Common Common Priest Круг очищения
+80100 Common Common Priest Восстановление маны I
+80200 Common Common Priest Восстановление маны II
+80300 Common Common Priest Восстановление маны III
+80400 Common Common Priest Восстановление маны IV
+80500 Common Common Priest Восстановление маны V
+100100 Common Common Priest Круг очищения I
+100200 Common Common Priest Круг очищения II
+100300 Common Common Priest Круг очищения III
+100400 Common Common Priest Круг очищения IV
+100500 Common Common Priest Круг очищения V
 110100 Common Common Priest Взрыв метаморфозы I
 110200 Common Common Priest Взрыв метаморфозы II
 110300 Common Common Priest Взрыв метаморфозы III
@@ -2499,10 +3105,20 @@
 110900 Common Common Priest Взрыв метаморфозы IX
 111000 Common Common Priest Взрыв метаморфозы X
 111100 Common Common Priest Взрыв метаморфозы XI
-120100 Common Common Priest Воскрешение
-130100 Common Common Priest Путь домой
-140100 Common Common Priest Призыв союзников
-150100 Common Common Priest Благословение Зенобии
+111200 Common Common Priest Взрыв метаморфозы XII
+111300 Common Common Priest Взрыв метаморфозы XIII
+111400 Common Common Priest Взрыв метаморфозы XIV
+111500 Common Common Priest Взрыв метаморфозы XV
+120100 Common Common Priest Воскрешение I
+120200 Common Common Priest Воскрешение II
+120300 Common Common Priest Воскрешение III
+120400 Common Common Priest Воскрешение IV
+130100 Common Common Priest Путь домой I
+130200 Common Common Priest Путь домой II
+140100 Common Common Priest Призыв союзников I
+140200 Common Common Priest Призыв союзников II
+150100 Common Common Priest Благословение Зенобии I
+150200 Common Common Priest Благословение Зенобии II
 160100 Common Common Priest Разряд энергии I
 160200 Common Common Priest Разряд энергии II
 160300 Common Common Priest Разряд энергии III
@@ -2512,10 +3128,16 @@
 160700 Common Common Priest Разряд энергии VII
 160800 Common Common Priest Разряд энергии VIII
 160900 Common Common Priest Разряд энергии IX
+161000 Common Common Priest Разряд энергии X
+161100 Common Common Priest Разряд энергии XI
+161200 Common Common Priest Разряд энергии XII
+161300 Common Common Priest Разряд энергии XIII
 170100 Common Common Priest Умиротворение I
 170200 Common Common Priest Умиротворение II
 170300 Common Common Priest Умиротворение III
 170400 Common Common Priest Умиротворение IV
+170500 Common Common Priest Умиротворение V
+170600 Common Common Priest Умиротворение VI
 180100 Common Common Priest Самоисцеление I
 180200 Common Common Priest Самоисцеление II
 180300 Common Common Priest Самоисцеление III
@@ -2528,6 +3150,9 @@
 181000 Common Common Priest Самоисцеление X
 181100 Common Common Priest Самоисцеление XI
 181200 Common Common Priest Самоисцеление XII
+181300 Common Common Priest Самоисцеление XIII
+181400 Common Common Priest Самоисцеление XIV
+181500 Common Common Priest Самоисцеление XV
 190100 Common Common Priest Исцеляющий луч I
 190110 Common Common Priest Исцеляющий луч I
 190200 Common Common Priest Исцеляющий луч II
@@ -2546,19 +3171,46 @@
 190810 Common Common Priest Исцеляющий луч VIII
 190900 Common Common Priest Исцеляющий луч IX
 190910 Common Common Priest Исцеляющий луч IX
+191000 Common Common Priest Исцеляющий луч X
+191010 Common Common Priest Исцеляющий луч X
+191100 Common Common Priest Исцеляющий луч XI
+191110 Common Common Priest Исцеляющий луч XI
+191200 Common Common Priest Исцеляющий луч XII
+191210 Common Common Priest Исцеляющий луч XII
 200100 Common Common Priest Благословение Дзерены I
 200200 Common Common Priest Благословение Дзерены II
-210100 Common Common Priest Благословение Арахны
+200300 Common Common Priest Благословение Дзерены III
+200400 Common Common Priest Благословение Дзерены IV
+200500 Common Common Priest Благословение Дзерены V
+200600 Common Common Priest Благословение Дзерены VI
+210100 Common Common Priest Благословение Арахны I
+210200 Common Common Priest Благословение Арахны II
+210300 Common Common Priest Благословение Арахны III
+210400 Common Common Priest Благословение Арахны IV
+210500 Common Common Priest Благословение Арахны V
 220100 Common Common Priest Щит Кайи I
 220200 Common Common Priest Щит Кайи II
 220300 Common Common Priest Щит Кайи III
 220400 Common Common Priest Щит Кайи IV
 220500 Common Common Priest Щит Кайи V
+220600 Common Common Priest Щит Кайи VI
+220700 Common Common Priest Щит Кайи VII
+220800 Common Common Priest Щит Кайи VIII
+220900 Common Common Priest Щит Кайи IX
+221000 Common Common Priest Щит Кайи X
+221100 Common Common Priest Щит Кайи XI
+221200 Common Common Priest Щит Кайи XII
+221300 Common Common Priest Щит Кайи XIII
+221400 Common Common Priest Щит Кайи XIV
 230100 Common Common Priest Благословение Балдера I
 230200 Common Common Priest Благословение Балдера II
 230300 Common Common Priest Благословение Балдера III
 230400 Common Common Priest Благословение Балдера IV
 230500 Common Common Priest Благословение Балдера V
+230600 Common Common Priest Благословение Балдера VI
+230700 Common Common Priest Благословение Балдера VII
+230800 Common Common Priest Благословение Балдера VIII
+230900 Common Common Priest Благословение Балдера IX
 250100 Common Common Priest Ответный удар I
 250200 Common Common Priest Ответный удар II
 250300 Common Common Priest Ответный удар III
@@ -2569,6 +3221,8 @@
 250800 Common Common Priest Ответный удар VIII
 250900 Common Common Priest Ответный удар IX
 251000 Common Common Priest Ответный удар X
+251100 Common Common Priest Ответный удар XI
+251200 Common Common Priest Ответный удар XII
 260100 Common Common Priest Огненное бегство I
 260200 Common Common Priest Огненное бегство II
 260300 Common Common Priest Огненное бегство III
@@ -2580,6 +3234,9 @@
 260900 Common Common Priest Огненное бегство IX
 261000 Common Common Priest Огненное бегство X
 261100 Common Common Priest Огненное бегство XI
+261200 Common Common Priest Огненное бегство XII
+261300 Common Common Priest Огненное бегство XIII
+261400 Common Common Priest Огненное бегство XIV
 270100 Common Common Priest Крайняя мера I
 270130 Common Common Priest Крайняя мера I
 270200 Common Common Priest Крайняя мера II
@@ -2600,10 +3257,21 @@
 270930 Common Common Priest Крайняя мера IX
 271000 Common Common Priest Крайняя мера X
 271030 Common Common Priest Крайняя мера X
-280100 Common Common Priest Заряд маны
-280110 Common Common Priest Заряд маны
-280111 Common Common Priest Заряд маны
-280112 Common Common Priest Заряд маны
+271100 Common Common Priest Крайняя мера XI
+271130 Common Common Priest Крайняя мера XI
+271200 Common Common Priest Крайняя мера XII
+271230 Common Common Priest Крайняя мера XII
+271300 Common Common Priest Крайняя мера XIII
+271330 Common Common Priest Крайняя мера XIII
+280100 Common Common Priest Заряд маны I
+280110 Common Common Priest Заряд маны I
+280111 Common Common Priest Заряд маны I
+280112 Common Common Priest Заряд маны I
+280200 Common Common Priest Заряд маны II
+280210 Common Common Priest Заряд маны II
+280211 Common Common Priest Заряд маны II
+280212 Common Common Priest Заряд маны II
+280213 Common Common Priest Заряд маны II
 290100 Common Common Priest Тройное возмездие I
 290101 Common Common Priest Тройное возмездие I
 290102 Common Common Priest Тройное возмездие I
@@ -2637,6 +3305,15 @@
 291100 Common Common Priest Тройное возмездие XI
 291101 Common Common Priest Тройное возмездие XI
 291102 Common Common Priest Тройное возмездие XI
+291200 Common Common Priest Тройное возмездие XII
+291201 Common Common Priest Тройное возмездие XII
+291202 Common Common Priest Тройное возмездие XII
+291300 Common Common Priest Тройное возмездие XIII
+291301 Common Common Priest Тройное возмездие XIII
+291302 Common Common Priest Тройное возмездие XIII
+291400 Common Common Priest Тройное возмездие XIV
+291401 Common Common Priest Тройное возмездие XIV
+291402 Common Common Priest Тройное возмездие XIV
 300100 Common Common Priest Изнуряющая чума I
 300110 Common Common Priest Изнуряющая чума I
 300200 Common Common Priest Изнуряющая чума II
@@ -2653,16 +3330,30 @@
 300710 Common Common Priest Изнуряющая чума VII
 300800 Common Common Priest Изнуряющая чума VIII
 300810 Common Common Priest Изнуряющая чума VIII
+300900 Common Common Priest Изнуряющая чума IX
+300910 Common Common Priest Изнуряющая чума IX
+301000 Common Common Priest Изнуряющая чума X
+301010 Common Common Priest Изнуряющая чума X
 310100 Common Common Priest Священный щит I
 310200 Common Common Priest Священный щит II
+310300 Common Common Priest Священный щит III
+310400 Common Common Priest Священный щит IV
+310500 Common Common Priest Священный щит V
 320100 Common Common Priest Божественная передышка I
 320200 Common Common Priest Божественная передышка II
+320300 Common Common Priest Божественная передышка III
+320400 Common Common Priest Божественная передышка IV
+320500 Common Common Priest Божественная передышка V
 330100 Common Common Priest Колыбельная Ишары I
 330110 Common Common Priest Колыбельная Ишары I
 330200 Common Common Priest Колыбельная Ишары II
 330210 Common Common Priest Колыбельная Ишары II
 330300 Common Common Priest Колыбельная Ишары III
 330310 Common Common Priest Колыбельная Ишары III
+330400 Common Common Priest Колыбельная Ишары IV
+330410 Common Common Priest Колыбельная Ишары IV
+330500 Common Common Priest Колыбельная Ишары V
+330510 Common Common Priest Колыбельная Ишары V
 340100 Common Common Priest Лечебный колодец I
 340120 Common Common Priest Лечебный колодец I
 340200 Common Common Priest Лечебный колодец II
@@ -2685,6 +3376,12 @@
 341020 Common Common Priest Лечебный колодец X
 341100 Common Common Priest Лечебный колодец XI
 341120 Common Common Priest Лечебный колодец XI
+341200 Common Common Priest Лечебный колодец XII
+341220 Common Common Priest Лечебный колодец XII
+341300 Common Common Priest Лечебный колодец XIII
+341320 Common Common Priest Лечебный колодец XIII
+341400 Common Common Priest Лечебный колодец XIV
+341420 Common Common Priest Лечебный колодец XIV
 350100 Common Common Priest Энергия звезд I
 350110 Common Common Priest Энергия звезд I
 350200 Common Common Priest Энергия звезд II
@@ -2693,17 +3390,34 @@
 350310 Common Common Priest Энергия звезд III
 350400 Common Common Priest Энергия звезд IV
 350410 Common Common Priest Энергия звезд IV
+350500 Common Common Priest Энергия звезд V
+350510 Common Common Priest Энергия звезд V
+350600 Common Common Priest Энергия звезд VI
+350610 Common Common Priest Энергия звезд VI
+350700 Common Common Priest Энергия звезд VII
+350710 Common Common Priest Энергия звезд VII
 360100 Common Common Priest Божественное прозрение I
+360200 Common Common Priest Божественное прозрение II
 370100 Common Common Priest Исцеляющий свет I
 370110 Common Common Priest Исцеляющий свет I
 370200 Common Common Priest Исцеляющий свет II
 370210 Common Common Priest Исцеляющий свет II
-380100 Common Common Priest Отступление
-390100 Common Common Priest Дар возрождения
-400100 Common Common Priest Вихрь Зенобии
-400120 Common Common Priest Вихрь Зенобии
-410100 Common Common Priest Божественное вмешательство
-410110 Common Common Priest Божественное вмешательство
+370300 Common Common Priest Исцеляющий свет III
+370310 Common Common Priest Исцеляющий свет III
+370400 Common Common Priest Исцеляющий свет IV
+370410 Common Common Priest Исцеляющий свет IV
+370500 Common Common Priest Исцеляющий свет V
+370510 Common Common Priest Исцеляющий свет V
+380100 Common Common Priest Отступление I
+390100 Common Common Priest Дар возрождения I
+390200 Common Common Priest Дар возрождения II
+390300 Common Common Priest Дар возрождения III
+390400 Common Common Priest Дар возрождения IV
+390500 Common Common Priest Дар возрождения V
+400100 Common Common Priest Вихрь Зенобии I
+400120 Common Common Priest Вихрь Зенобии I
+410100 Common Common Priest Божественное вмешательство I
+410110 Common Common Priest Божественное вмешательство I
 10100 Common Common Archer Стрела I
 10200 Common Common Archer Стрела II
 10300 Common Common Archer Стрела III
@@ -2716,6 +3430,9 @@
 11000 Common Common Archer Стрела X
 11100 Common Common Archer Стрела XI
 11200 Common Common Archer Стрела XII
+11300 Common Common Archer Стрела XIII
+11400 Common Common Archer Стрела XIV
+11500 Common Common Archer Стрела XV
 20100 Common Common Archer Град стрел I
 20110 Common Common Archer Град стрел I
 20200 Common Common Archer Град стрел II
@@ -2738,6 +3455,14 @@
 21010 Common Common Archer Град стрел X
 21100 Common Common Archer Град стрел XI
 21110 Common Common Archer Град стрел XI
+21200 Common Common Archer Град стрел XII
+21210 Common Common Archer Град стрел XII
+21300 Common Common Archer Град стрел XIII
+21310 Common Common Archer Град стрел XIII
+21400 Common Common Archer Град стрел XIV
+21410 Common Common Archer Град стрел XIV
+21500 Common Common Archer Град стрел XV
+21510 Common Common Archer Град стрел XV
 30100 Common Common Archer Прицельный выстрел I
 30110 Common Common Archer Прицельный выстрел I
 30111 Common Common Archer Прицельный выстрел I
@@ -2783,6 +3508,31 @@
 30911 Common Common Archer Прицельный выстрел IX
 30912 Common Common Archer Прицельный выстрел IX
 30913 Common Common Archer Прицельный выстрел IX
+31000 Common Common Archer Прицельный выстрел X
+31010 Common Common Archer Прицельный выстрел X
+31011 Common Common Archer Прицельный выстрел X
+31012 Common Common Archer Прицельный выстрел X
+31013 Common Common Archer Прицельный выстрел X
+31100 Common Common Archer Прицельный выстрел XI
+31110 Common Common Archer Прицельный выстрел XI
+31111 Common Common Archer Прицельный выстрел XI
+31112 Common Common Archer Прицельный выстрел XI
+31113 Common Common Archer Прицельный выстрел XI
+31200 Common Common Archer Прицельный выстрел XII
+31210 Common Common Archer Прицельный выстрел XII
+31211 Common Common Archer Прицельный выстрел XII
+31212 Common Common Archer Прицельный выстрел XII
+31213 Common Common Archer Прицельный выстрел XII
+31300 Common Common Archer Прицельный выстрел XIII
+31310 Common Common Archer Прицельный выстрел XIII
+31311 Common Common Archer Прицельный выстрел XIII
+31312 Common Common Archer Прицельный выстрел XIII
+31313 Common Common Archer Прицельный выстрел XIII
+31400 Common Common Archer Прицельный выстрел XIV
+31410 Common Common Archer Прицельный выстрел XIV
+31411 Common Common Archer Прицельный выстрел XIV
+31412 Common Common Archer Прицельный выстрел XIV
+31413 Common Common Archer Прицельный выстрел XIV
 40100 Common Common Archer Проникающий выстрел I
 40110 Common Common Archer Проникающий выстрел I
 40111 Common Common Archer Проникающий выстрел I
@@ -2843,14 +3593,38 @@
 41211 Common Common Archer Проникающий выстрел XII
 41212 Common Common Archer Проникающий выстрел XII
 41213 Common Common Archer Проникающий выстрел XII
+41300 Common Common Archer Проникающий выстрел XIII
+41310 Common Common Archer Проникающий выстрел XIII
+41311 Common Common Archer Проникающий выстрел XIII
+41312 Common Common Archer Проникающий выстрел XIII
+41313 Common Common Archer Проникающий выстрел XIII
+41400 Common Common Archer Проникающий выстрел XIV
+41410 Common Common Archer Проникающий выстрел XIV
+41411 Common Common Archer Проникающий выстрел XIV
+41412 Common Common Archer Проникающий выстрел XIV
+41413 Common Common Archer Проникающий выстрел XIV
 50100 Common Common Archer Дождь стрел I
 50120 Common Common Archer Дождь стрел I
 50200 Common Common Archer Дождь стрел II
 50220 Common Common Archer Дождь стрел II
-60100 Common Common Archer Отступление
+50300 Common Common Archer Дождь стрел III
+50320 Common Common Archer Дождь стрел III
+50400 Common Common Archer Дождь стрел IV
+50420 Common Common Archer Дождь стрел IV
+50500 Common Common Archer Дождь стрел V
+50520 Common Common Archer Дождь стрел V
+50600 Common Common Archer Дождь стрел VI
+50620 Common Common Archer Дождь стрел VI
+60100 Common Common Archer Отступление I
+60200 Common Common Archer Отступление II
+60300 Common Common Archer Отступление III
 70100 Common Common Archer Ложная смерть I
 70200 Common Common Archer Ложная смерть II
 70300 Common Common Archer Ложная смерть III
+70400 Common Common Archer Ложная смерть IV
+70500 Common Common Archer Ложная смерть V
+70600 Common Common Archer Ложная смерть VI
+70700 Common Common Archer Ложная смерть VII
 80100 Common Common Archer Беглый огонь I
 80101 Common Common Archer Беглый огонь I
 80102 Common Common Archer Беглый огонь I
@@ -2914,6 +3688,27 @@
 80904 Common Common Archer Беглый огонь IX
 80905 Common Common Archer Беглый огонь IX
 80906 Common Common Archer Беглый огонь IX
+81000 Common Common Archer Беглый огонь X
+81001 Common Common Archer Беглый огонь X
+81002 Common Common Archer Беглый огонь X
+81003 Common Common Archer Беглый огонь X
+81004 Common Common Archer Беглый огонь X
+81005 Common Common Archer Беглый огонь X
+81006 Common Common Archer Беглый огонь X
+81100 Common Common Archer Беглый огонь XI
+81101 Common Common Archer Беглый огонь XI
+81102 Common Common Archer Беглый огонь XI
+81103 Common Common Archer Беглый огонь XI
+81104 Common Common Archer Беглый огонь XI
+81105 Common Common Archer Беглый огонь XI
+81106 Common Common Archer Беглый огонь XI
+81200 Common Common Archer Беглый огонь XII
+81201 Common Common Archer Беглый огонь XII
+81202 Common Common Archer Беглый огонь XII
+81203 Common Common Archer Беглый огонь XII
+81204 Common Common Archer Беглый огонь XII
+81205 Common Common Archer Беглый огонь XII
+81206 Common Common Archer Беглый огонь XII
 90100 Common Common Archer Замедляющая ловушка I
 90120 Common Common Archer Замедляющая ловушка I
 90200 Common Common Archer Замедляющая ловушка II
@@ -2926,6 +3721,12 @@
 90520 Common Common Archer Замедляющая ловушка V
 90600 Common Common Archer Замедляющая ловушка VI
 90620 Common Common Archer Замедляющая ловушка VI
+90700 Common Common Archer Замедляющая ловушка VII
+90720 Common Common Archer Замедляющая ловушка VII
+90800 Common Common Archer Замедляющая ловушка VIII
+90820 Common Common Archer Замедляющая ловушка VIII
+90900 Common Common Archer Замедляющая ловушка IX
+90920 Common Common Archer Замедляющая ловушка IX
 100100 Common Common Archer Оглушающая ловушка I
 100120 Common Common Archer Оглушающая ловушка I
 100200 Common Common Archer Оглушающая ловушка II
@@ -2934,6 +3735,12 @@
 100320 Common Common Archer Оглушающая ловушка III
 100400 Common Common Archer Оглушающая ловушка IV
 100420 Common Common Archer Оглушающая ловушка IV
+100500 Common Common Archer Оглушающая ловушка V
+100520 Common Common Archer Оглушающая ловушка V
+100600 Common Common Archer Оглушающая ловушка VI
+100620 Common Common Archer Оглушающая ловушка VI
+100700 Common Common Archer Оглушающая ловушка VII
+100720 Common Common Archer Оглушающая ловушка VII
 110100 Common Common Archer Ядовитая ловушка I
 110120 Common Common Archer Ядовитая ловушка I
 110200 Common Common Archer Ядовитая ловушка II
@@ -2944,9 +3751,21 @@
 110420 Common Common Archer Ядовитая ловушка IV
 110500 Common Common Archer Ядовитая ловушка V
 110520 Common Common Archer Ядовитая ловушка V
+110600 Common Common Archer Ядовитая ловушка VI
+110620 Common Common Archer Ядовитая ловушка VI
+110700 Common Common Archer Ядовитая ловушка VII
+110720 Common Common Archer Ядовитая ловушка VII
+110800 Common Common Archer Ядовитая ловушка VIII
+110820 Common Common Archer Ядовитая ловушка VIII
+110900 Common Common Archer Ядовитая ловушка IX
+110920 Common Common Archer Ядовитая ловушка IX
+111000 Common Common Archer Ядовитая ловушка X
+111020 Common Common Archer Ядовитая ловушка X
 120100 Common Common Archer Клеймо Велики I
 120200 Common Common Archer Клеймо Велики II
 120300 Common Common Archer Клеймо Велики III
+120400 Common Common Archer Клеймо Велики IV
+120500 Common Common Archer Клеймо Велики V
 140100 Common Common Archer Ответный удар I
 140200 Common Common Archer Ответный удар II
 140300 Common Common Archer Ответный удар III
@@ -2957,6 +3776,8 @@
 140800 Common Common Archer Ответный удар VIII
 140900 Common Common Archer Ответный удар IX
 141000 Common Common Archer Ответный удар X
+141100 Common Common Archer Ответный удар XI
+141200 Common Common Archer Ответный удар XII
 150100 Common Common Archer Ловушка-бомба I
 150120 Common Common Archer Ловушка-бомба I
 150200 Common Common Archer Ловушка-бомба II
@@ -2971,6 +3792,12 @@
 150620 Common Common Archer Ловушка-бомба VI
 150700 Common Common Archer Ловушка-бомба VII
 150720 Common Common Archer Ловушка-бомба VII
+150800 Common Common Archer Ловушка-бомба VIII
+150820 Common Common Archer Ловушка-бомба VIII
+150900 Common Common Archer Ловушка-бомба IX
+150920 Common Common Archer Ловушка-бомба IX
+151000 Common Common Archer Ловушка-бомба X
+151020 Common Common Archer Ловушка-бомба X
 160100 Common Common Archer Бегство I
 160200 Common Common Archer Бегство II
 160300 Common Common Archer Бегство III
@@ -2981,9 +3808,14 @@
 160800 Common Common Archer Бегство VIII
 160900 Common Common Archer Бегство IX
 161000 Common Common Archer Бегство X
+161100 Common Common Archer Бегство XI
+161200 Common Common Archer Бегство XII
+161300 Common Common Archer Бегство XIII
 170100 Common Common Archer Замедляющая стрела I
 170200 Common Common Archer Замедляющая стрела II
 170300 Common Common Archer Замедляющая стрела III
+170400 Common Common Archer Замедляющая стрела IV
+170500 Common Common Archer Замедляющая стрела V
 180100 Common Common Archer Удар ногой I
 180101 Common Common Archer Удар ногой I
 180200 Common Common Archer Удар ногой II
@@ -3004,6 +3836,12 @@
 180901 Common Common Archer Удар ногой IX
 181000 Common Common Archer Удар ногой X
 181001 Common Common Archer Удар ногой X
+181100 Common Common Archer Удар ногой XI
+181101 Common Common Archer Удар ногой XI
+181200 Common Common Archer Удар ногой XII
+181201 Common Common Archer Удар ногой XII
+181300 Common Common Archer Удар ногой XIII
+181301 Common Common Archer Удар ногой XIII
 190100 Common Common Archer Ядовитая стрела I
 190200 Common Common Archer Ядовитая стрела II
 190300 Common Common Archer Ядовитая стрела III
@@ -3012,12 +3850,21 @@
 190600 Common Common Archer Ядовитая стрела VI
 190700 Common Common Archer Ядовитая стрела VII
 190800 Common Common Archer Ядовитая стрела VIII
+190900 Common Common Archer Ядовитая стрела IX
+191000 Common Common Archer Ядовитая стрела X
+191100 Common Common Archer Ядовитая стрела XI
 200100 Common Common Archer Опутывающая стрела I
 200200 Common Common Archer Опутывающая стрела II
+200300 Common Common Archer Опутывающая стрела III
+200400 Common Common Archer Опутывающая стрела IV
 210100 Common Common Archer Глаз стрелка I
 210150 Common Common Archer Глаз стрелка I
 210200 Common Common Archer Глаз стрелка II
 210250 Common Common Archer Глаз стрелка II
+210300 Common Common Archer Глаз стрелка III
+210350 Common Common Archer Глаз стрелка III
+210400 Common Common Archer Глаз стрелка IV
+210450 Common Common Archer Глаз стрелка IV
 220100 Common Common Archer Последний залп I
 220101 Common Common Archer Последний залп I
 220102 Common Common Archer Последний залп I
@@ -3058,26 +3905,64 @@
 220802 Common Common Archer Последний залп VIII
 220803 Common Common Archer Последний залп VIII
 220804 Common Common Archer Последний залп VIII
+220900 Common Common Archer Последний залп IX
+220901 Common Common Archer Последний залп IX
+220902 Common Common Archer Последний залп IX
+220903 Common Common Archer Последний залп IX
+220904 Common Common Archer Последний залп IX
+221000 Common Common Archer Последний залп X
+221001 Common Common Archer Последний залп X
+221002 Common Common Archer Последний залп X
+221003 Common Common Archer Последний залп X
+221004 Common Common Archer Последний залп X
+221100 Common Common Archer Последний залп XI
+221101 Common Common Archer Последний залп XI
+221102 Common Common Archer Последний залп XI
+221103 Common Common Archer Последний залп XI
+221104 Common Common Archer Последний залп XI
 230100 Common Common Archer Парализующая ловушка I
 230120 Common Common Archer Парализующая ловушка I
 230200 Common Common Archer Парализующая ловушка II
 230220 Common Common Archer Парализующая ловушка II
+230300 Common Common Archer Парализующая ловушка III
+230320 Common Common Archer Парализующая ловушка III
+230400 Common Common Archer Парализующая ловушка IV
+230420 Common Common Archer Парализующая ловушка IV
+230500 Common Common Archer Парализующая ловушка V
+230520 Common Common Archer Парализующая ловушка V
 240100 Common Common Archer Опутывающая ловушка I
 240120 Common Common Archer Опутывающая ловушка I
 240200 Common Common Archer Опутывающая ловушка II
 240220 Common Common Archer Опутывающая ловушка II
+240300 Common Common Archer Опутывающая ловушка III
+240320 Common Common Archer Опутывающая ловушка III
+240400 Common Common Archer Опутывающая ловушка IV
+240420 Common Common Archer Опутывающая ловушка IV
+240500 Common Common Archer Опутывающая ловушка V
+240520 Common Common Archer Опутывающая ловушка V
 250100 Common Common Archer Взрывная ловушка I
 250120 Common Common Archer Взрывная ловушка I
 250200 Common Common Archer Взрывная ловушка II
 250220 Common Common Archer Взрывная ловушка II
-260100 Common Common Archer Грозовой разряд
+250300 Common Common Archer Взрывная ловушка III
+250320 Common Common Archer Взрывная ловушка III
+250400 Common Common Archer Взрывная ловушка IV
+250420 Common Common Archer Взрывная ловушка IV
+250500 Common Common Archer Взрывная ловушка V
+250520 Common Common Archer Взрывная ловушка V
+260100 Common Common Archer Грозовой разряд I
+260200 Common Common Archer Грозовой разряд II
 280100 Common Common Archer Глаз орла I
 280150 Common Common Archer Глаз стрелка I
 280200 Common Common Archer Глаз орла II
 280250 Common Common Archer Глаз стрелка II
-290100 Common Common Archer Грозовой разряд
-290120 Common Common Archer Грозовой разряд
-310100 Common Common Archer Упорство
+280300 Common Common Archer Глаз стрелка III
+280350 Common Common Archer Глаз стрелка III
+280400 Common Common Archer Глаз стрелка IV
+280450 Common Common Archer Глаз стрелка IV
+290100 Common Common Archer Грозовой разряд I
+290120 Common Common Archer Грозовой разряд I
+310100 Common Common Archer Упорство I
 10100 Common Common Slayer Комбо-атака I
 10101 Common Common Slayer Комбо-атака I
 10102 Common Common Slayer Комбо-атака I
@@ -3126,6 +4011,18 @@
 11201 Common Common Slayer Комбо-атака XII
 11202 Common Common Slayer Комбо-атака XII
 11203 Common Common Slayer Комбо-атака XII
+11300 Common Common Slayer Комбо-атака XIII
+11301 Common Common Slayer Комбо-атака XIII
+11302 Common Common Slayer Комбо-атака XIII
+11303 Common Common Slayer Комбо-атака XIII
+11400 Common Common Slayer Комбо-атака XIV
+11401 Common Common Slayer Комбо-атака XIV
+11402 Common Common Slayer Комбо-атака XIV
+11403 Common Common Slayer Комбо-атака XIV
+11500 Common Common Slayer Комбо-атака XV
+11501 Common Common Slayer Комбо-атака XV
+11502 Common Common Slayer Комбо-атака XV
+11503 Common Common Slayer Комбо-атака XV
 20100 Common Common Slayer Нокаутирующий удар I
 20200 Common Common Slayer Нокаутирующий удар II
 20300 Common Common Slayer Нокаутирующий удар III
@@ -3137,6 +4034,9 @@
 20900 Common Common Slayer Нокаутирующий удар IX
 21000 Common Common Slayer Нокаутирующий удар X
 21100 Common Common Slayer Нокаутирующий удар XI
+21200 Common Common Slayer Нокаутирующий удар XII
+21300 Common Common Slayer Нокаутирующий удар XIII
+21400 Common Common Slayer Нокаутирующий удар XIV
 30100 Common Common Slayer Смерч I
 30200 Common Common Slayer Смерч II
 30300 Common Common Slayer Смерч III
@@ -3148,16 +4048,29 @@
 30900 Common Common Slayer Смерч IX
 31000 Common Common Slayer Смерч X
 31100 Common Common Slayer Смерч XI
-40100 Common Common Slayer Уклонение
+31200 Common Common Slayer Смерч XII
+31300 Common Common Slayer Смерч XIII
+31400 Common Common Slayer Смерч XIV
+31500 Common Common Slayer Смерч XV
+40100 Common Common Slayer Уклонение I
 40200 Common Common Slayer Уклонение II
 40230 Common Common Slayer Уклонение II
+40300 Common Common Slayer Уклонение III
 50100 Common Common Slayer Рывок I
 50200 Common Common Slayer Рывок II
 50300 Common Common Slayer Рывок III
+50400 Common Common Slayer Рывок IV
+50500 Common Common Slayer Рывок V
 60100 Common Common Slayer Удар в спину I
 60200 Common Common Slayer Удар в спину II
+60300 Common Common Slayer Удар в спину III
+60400 Common Common Slayer Удар в спину IV
+60500 Common Common Slayer Удар в спину V
+60600 Common Common Slayer Удар в спину VI
 70100 Common Common Slayer Клич победителя I
 70200 Common Common Slayer Клич победителя II
+70300 Common Common Slayer Клич победителя III
+70400 Common Common Slayer Клич победителя IV
 80100 Common Common Slayer Рубящий удар I
 80130 Common Common Slayer Рубящий удар I
 80200 Common Common Slayer Рубящий удар II
@@ -3176,6 +4089,12 @@
 80830 Common Common Slayer Рубящий удар VIII
 80900 Common Common Slayer Рубящий удар IX
 80930 Common Common Slayer Рубящий удар IX
+81000 Common Common Slayer Рубящий удар X
+81030 Common Common Slayer Рубящий удар X
+81100 Common Common Slayer Рубящий удар XI
+81130 Common Common Slayer Рубящий удар XI
+81200 Common Common Slayer Рубящий удар XII
+81230 Common Common Slayer Рубящий удар XII
 90100 Common Common Slayer Удар в прыжке I
 90200 Common Common Slayer Удар в прыжке II
 90300 Common Common Slayer Удар в прыжке III
@@ -3184,6 +4103,9 @@
 90600 Common Common Slayer Удар в прыжке VI
 90700 Common Common Slayer Удар в прыжке VII
 90800 Common Common Slayer Удар в прыжке VIII
+90900 Common Common Slayer Удар в прыжке IX
+91000 Common Common Slayer Удар в прыжке X
+91100 Common Common Slayer Удар в прыжке XI
 100100 Common Common Slayer Ответный удар I
 100200 Common Common Slayer Ответный удар II
 100300 Common Common Slayer Ответный удар III
@@ -3194,11 +4116,16 @@
 100800 Common Common Slayer Ответный удар VIII
 100900 Common Common Slayer Ответный удар IX
 101000 Common Common Slayer Ответный удар X
+101100 Common Common Slayer Ответный удар XI
+101200 Common Common Slayer Ответный удар XII
 120100 Common Common Slayer Удар в сердце I
 120200 Common Common Slayer Удар в сердце II
 120300 Common Common Slayer Удар в сердце III
 120400 Common Common Slayer Удар в сердце IV
 120500 Common Common Slayer Удар в сердце V
+120600 Common Common Slayer Удар в сердце VI
+120700 Common Common Slayer Удар в сердце VII
+120800 Common Common Slayer Удар в сердце VIII
 130100 Common Common Slayer Удар с размаха I
 130200 Common Common Slayer Удар с размаха II
 130300 Common Common Slayer Удар с размаха III
@@ -3206,6 +4133,9 @@
 130500 Common Common Slayer Удар с размаха V
 130600 Common Common Slayer Удар с размаха VI
 130700 Common Common Slayer Удар с размаха VII
+130800 Common Common Slayer Удар с размаха VIII
+130900 Common Common Slayer Удар с размаха IX
+131000 Common Common Slayer Удар с размаха X
 140100 Common Common Slayer Клинок ветра I
 140101 Common Common Slayer Клинок ветра I
 140102 Common Common Slayer Клинок ветра I
@@ -3230,6 +4160,15 @@
 140800 Common Common Slayer Клинок ветра VIII
 140801 Common Common Slayer Клинок ветра VIII
 140802 Common Common Slayer Клинок ветра VIII
+140900 Common Common Slayer Клинок ветра IX
+140901 Common Common Slayer Клинок ветра IX
+140902 Common Common Slayer Клинок ветра IX
+141000 Common Common Slayer Клинок ветра X
+141001 Common Common Slayer Клинок ветра X
+141002 Common Common Slayer Клинок ветра X
+141100 Common Common Slayer Клинок ветра XI
+141101 Common Common Slayer Клинок ветра XI
+141102 Common Common Slayer Клинок ветра XI
 150100 Common Common Slayer Сотрясающий удар I
 150200 Common Common Slayer Сотрясающий удар II
 150300 Common Common Slayer Сотрясающий удар III
@@ -3239,29 +4178,53 @@
 150700 Common Common Slayer Сотрясающий удар VII
 150800 Common Common Slayer Сотрясающий удар VIII
 150900 Common Common Slayer Сотрясающий удар IX
+151000 Common Common Slayer Сотрясающий удар X
+151100 Common Common Slayer Сотрясающий удар XI
 160100 Common Common Slayer Яростная атака I
 160200 Common Common Slayer Яростная атака II
 160300 Common Common Slayer Яростная атака III
 160400 Common Common Slayer Яростная атака IV
+160500 Common Common Slayer Яростная атака V
+160600 Common Common Slayer Яростная атака VI
+160700 Common Common Slayer Яростная атака VII
 170100 Common Common Slayer Безрассудный рывок I
 170200 Common Common Slayer Безрассудный рывок II
 170300 Common Common Slayer Безрассудный рывок III
 170400 Common Common Slayer Безрассудный рывок IV
+170500 Common Common Slayer Безрассудный рывок V
+170600 Common Common Slayer Безрассудный рывок VI
 180100 Common Common Slayer Концентрация силы I
 180200 Common Common Slayer Концентрация силы II
+180300 Common Common Slayer Концентрация силы III
+180400 Common Common Slayer Концентрация силы IV
 190100 Common Common Slayer Упорство I
 190200 Common Common Slayer Упорство II
 190300 Common Common Slayer Упорство III
+190400 Common Common Slayer Упорство IV
+190500 Common Common Slayer Упорство V
 200100 Common Common Slayer Хладнокровие I
 200200 Common Common Slayer Хладнокровие II
-210100 Common Common Slayer Истощающий удар
-220100 Common Common Slayer Потрошение
+200300 Common Common Slayer Хладнокровие III
+200400 Common Common Slayer Хладнокровие IV
+210100 Common Common Slayer Истощающий удар I
+210200 Common Common Slayer Истощающий удар II
+210300 Common Common Slayer Истощающий удар III
+210400 Common Common Slayer Истощающий удар IV
+210500 Common Common Slayer Истощающий удар V
+220100 Common Common Slayer Потрошение I
+220200 Common Common Slayer Потрошение II
 230100 Common Common Slayer Выверенный удар I
 230130 Common Common Slayer Выверенный удар I
 230200 Common Common Slayer Выверенный удар II
 230230 Common Common Slayer Выверенный удар II
-240100 Common Common Slayer Потрошение
-240130 Common Common Slayer Потрошение
+230300 Common Common Slayer Выверенный удар III
+230330 Common Common Slayer Выверенный удар III
+230400 Common Common Slayer Выверенный удар IV
+230430 Common Common Slayer Выверенный удар IV
+230500 Common Common Slayer Выверенный удар V
+230530 Common Common Slayer Выверенный удар V
+240100 Common Common Slayer Потрошение I
+240130 Common Common Slayer Потрошение I
 250100 Common Common Slayer Абсолютное умение: Рубящий удар I
 250130 Common Common Slayer Абсолютное умение: Рубящий удар I
 10100 Common Common Sorcerer Огненный шар I
@@ -3276,6 +4239,9 @@
 11000 Common Common Sorcerer Огненный шар X
 11100 Common Common Sorcerer Огненный шар XI
 11200 Common Common Sorcerer Огненный шар XII
+11300 Common Common Sorcerer Огненный шар XIII
+11400 Common Common Sorcerer Огненный шар XIV
+11500 Common Common Sorcerer Огненный шар XV
 20100 Common Common Sorcerer Осколок льда I
 20120 Common Common Sorcerer Осколок льда I
 20200 Common Common Sorcerer Осколок льда II
@@ -3296,12 +4262,40 @@
 20920 Common Common Sorcerer Осколок льда IX
 21000 Common Common Sorcerer Осколок льда X
 21020 Common Common Sorcerer Осколок льда X
+21100 Common Common Sorcerer Осколок льда XI
+21120 Common Common Sorcerer Осколок льда XI
+21200 Common Common Sorcerer Осколок льда XII
+21220 Common Common Sorcerer Осколок льда XII
+21300 Common Common Sorcerer Осколок льда XIII
+21320 Common Common Sorcerer Осколок льда XIII
+21400 Common Common Sorcerer Осколок льда XIV
+21420 Common Common Sorcerer Осколок льда XIV
+21500 Common Common Sorcerer Осколок льда XV
+21520 Common Common Sorcerer Осколок льда XV
 30100 Common Common Sorcerer Печать молний I
 30120 Common Common Sorcerer Печать молний I
 30200 Common Common Sorcerer Печать молний II
 30220 Common Common Sorcerer Печать молний II
 30300 Common Common Sorcerer Печать молний III
 30320 Common Common Sorcerer Печать молний III
+30400 Common Common Sorcerer Печать молний IV
+30420 Common Common Sorcerer Печать молний IV
+30500 Common Common Sorcerer Печать молний V
+30520 Common Common Sorcerer Печать молний V
+30600 Common Common Sorcerer Печать молний VI
+30620 Common Common Sorcerer Печать молний VI
+30700 Common Common Sorcerer Печать молний VII
+30720 Common Common Sorcerer Печать молний VII
+30800 Common Common Sorcerer Печать молний VIII
+30820 Common Common Sorcerer Печать молний VIII
+30900 Common Common Sorcerer Печать молний IX
+30920 Common Common Sorcerer Печать молний IX
+31000 Common Common Sorcerer Печать молний X
+31020 Common Common Sorcerer Печать молний X
+31100 Common Common Sorcerer Печать молний XI
+31120 Common Common Sorcerer Печать молний XI
+31200 Common Common Sorcerer Печать молний XII
+31220 Common Common Sorcerer Печать молний XII
 40100 Common Common Sorcerer Мистический шар I
 40110 Common Common Sorcerer Мистический шар I
 40111 Common Common Sorcerer Мистический шар I
@@ -3383,8 +4377,66 @@
 40921 Common Common Sorcerer Мистический шар IX
 40922 Common Common Sorcerer Мистический шар IX
 40923 Common Common Sorcerer Мистический шар IX
+41000 Common Common Sorcerer Мистический шар X
+41010 Common Common Sorcerer Мистический шар X
+41011 Common Common Sorcerer Мистический шар X
+41012 Common Common Sorcerer Мистический шар X
+41013 Common Common Sorcerer Мистический шар X
+41020 Common Common Sorcerer Мистический шар X
+41021 Common Common Sorcerer Мистический шар X
+41022 Common Common Sorcerer Мистический шар X
+41023 Common Common Sorcerer Мистический шар X
+41100 Common Common Sorcerer Мистический шар XI
+41110 Common Common Sorcerer Мистический шар XI
+41111 Common Common Sorcerer Мистический шар XI
+41112 Common Common Sorcerer Мистический шар XI
+41113 Common Common Sorcerer Мистический шар XI
+41120 Common Common Sorcerer Мистический шар XI
+41121 Common Common Sorcerer Мистический шар XI
+41122 Common Common Sorcerer Мистический шар XI
+41123 Common Common Sorcerer Мистический шар XI
+41200 Common Common Sorcerer Мистический шар XII
+41210 Common Common Sorcerer Мистический шар XII
+41211 Common Common Sorcerer Мистический шар XII
+41212 Common Common Sorcerer Мистический шар XII
+41213 Common Common Sorcerer Мистический шар XII
+41220 Common Common Sorcerer Мистический шар XII
+41221 Common Common Sorcerer Мистический шар XII
+41222 Common Common Sorcerer Мистический шар XII
+41223 Common Common Sorcerer Мистический шар XII
+41300 Common Common Sorcerer Мистический шар XIII
+41310 Common Common Sorcerer Мистический шар XIII
+41311 Common Common Sorcerer Мистический шар XIII
+41312 Common Common Sorcerer Мистический шар XIII
+41313 Common Common Sorcerer Мистический шар XIII
+41320 Common Common Sorcerer Мистический шар XIII
+41321 Common Common Sorcerer Мистический шар XIII
+41322 Common Common Sorcerer Мистический шар XIII
+41323 Common Common Sorcerer Мистический шар XIII
+41400 Common Common Sorcerer Мистический шар XIV
+41410 Common Common Sorcerer Мистический шар XIV
+41411 Common Common Sorcerer Мистический шар XIV
+41412 Common Common Sorcerer Мистический шар XIV
+41413 Common Common Sorcerer Мистический шар XIV
+41420 Common Common Sorcerer Мистический шар XIV
+41421 Common Common Sorcerer Мистический шар XIV
+41422 Common Common Sorcerer Мистический шар XIV
+41423 Common Common Sorcerer Мистический шар XIV
+41500 Common Common Sorcerer Мистический шар XV
+41510 Common Common Sorcerer Мистический шар XV
+41511 Common Common Sorcerer Мистический шар XV
+41512 Common Common Sorcerer Мистический шар XV
+41513 Common Common Sorcerer Мистический шар XV
+41520 Common Common Sorcerer Мистический шар XV
+41521 Common Common Sorcerer Мистический шар XV
+41522 Common Common Sorcerer Мистический шар XV
+41523 Common Common Sorcerer Мистический шар XV
 50100 Common Common Sorcerer Восстановление маны I
 50200 Common Common Sorcerer Восстановление маны II
+50300 Common Common Sorcerer Восстановление маны III
+50400 Common Common Sorcerer Восстановление маны IV
+50500 Common Common Sorcerer Восстановление маны V
+50600 Common Common Sorcerer Восстановление маны VI
 60100 Common Common Sorcerer Огненный взрыв I
 60200 Common Common Sorcerer Огненный взрыв II
 60300 Common Common Sorcerer Огненный взрыв III
@@ -3392,7 +4444,12 @@
 60500 Common Common Sorcerer Огненный взрыв V
 60600 Common Common Sorcerer Огненный взрыв VI
 60700 Common Common Sorcerer Огненный взрыв VII
-70100 Common Common Sorcerer Отступление
+60800 Common Common Sorcerer Огненный взрыв VIII
+60900 Common Common Sorcerer Огненный взрыв IX
+61000 Common Common Sorcerer Огненный взрыв X
+70100 Common Common Sorcerer Отступление I
+70200 Common Common Sorcerer Отступление II
+70300 Common Common Sorcerer Отступление III
 80100 Common Common Sorcerer Огненный столп I
 80200 Common Common Sorcerer Огненный столп II
 80300 Common Common Sorcerer Огненный столп III
@@ -3404,15 +4461,26 @@
 80900 Common Common Sorcerer Огненный столп IX
 81000 Common Common Sorcerer Огненный столп X
 81100 Common Common Sorcerer Огненный столп XI
+81200 Common Common Sorcerer Огненный столп XII
+81300 Common Common Sorcerer Огненный столп XIII
+81400 Common Common Sorcerer Огненный столп XIV
 90100 Common Common Sorcerer Клятва силы I
 90200 Common Common Sorcerer Клятва силы II
 90300 Common Common Sorcerer Клятва силы III
 90400 Common Common Sorcerer Клятва силы IV
 90500 Common Common Sorcerer Клятва силы V
 90600 Common Common Sorcerer Клятва силы VI
+90700 Common Common Sorcerer Клятва силы VII
+90800 Common Common Sorcerer Клятва силы VIII
+90900 Common Common Sorcerer Клятва силы IX
 100100 Common Common Sorcerer Магический барьер I
 100200 Common Common Sorcerer Магический барьер II
 100300 Common Common Sorcerer Магический барьер III
+100400 Common Common Sorcerer Магический барьер IV
+100500 Common Common Sorcerer Магический барьер V
+100600 Common Common Sorcerer Магический барьер VI
+100700 Common Common Sorcerer Магический барьер VII
+100800 Common Common Sorcerer Магический барьер VIII
 110100 Common Common Sorcerer Магмовая бомба I
 110140 Common Common Sorcerer Магмовая бомба I
 110200 Common Common Sorcerer Магмовая бомба II
@@ -3435,6 +4503,12 @@
 111040 Common Common Sorcerer Магмовая бомба X
 111100 Common Common Sorcerer Магмовая бомба XI
 111140 Common Common Sorcerer Магмовая бомба XI
+111200 Common Common Sorcerer Магмовая бомба XII
+111240 Common Common Sorcerer Магмовая бомба XII
+111300 Common Common Sorcerer Магмовая бомба XIII
+111340 Common Common Sorcerer Магмовая бомба XIII
+111400 Common Common Sorcerer Магмовая бомба XIV
+111440 Common Common Sorcerer Магмовая бомба XIV
 120100 Common Common Sorcerer Разрушающий луч I
 120120 Common Common Sorcerer Разрушающий луч I
 120200 Common Common Sorcerer Разрушающий луч II
@@ -3447,9 +4521,16 @@
 120520 Common Common Sorcerer Разрушающий луч V
 120600 Common Common Sorcerer Разрушающий луч VI
 120620 Common Common Sorcerer Разрушающий луч VI
+120700 Common Common Sorcerer Разрушающий луч VII
+120720 Common Common Sorcerer Разрушающий луч VII
+120800 Common Common Sorcerer Разрушающий луч VIII
+120820 Common Common Sorcerer Разрушающий луч VIII
+120900 Common Common Sorcerer Разрушающий луч IX
+120920 Common Common Sorcerer Разрушающий луч IX
 130100 Common Common Sorcerer Сон разума I
 130200 Common Common Sorcerer Сон разума II
 130300 Common Common Sorcerer Сон разума III
+130400 Common Common Sorcerer Сон разума IV
 140100 Common Common Sorcerer Ответный удар I
 140200 Common Common Sorcerer Ответный удар II
 140300 Common Common Sorcerer Ответный удар III
@@ -3460,6 +4541,9 @@
 140800 Common Common Sorcerer Ответный удар VIII
 140900 Common Common Sorcerer Ответный удар IX
 141000 Common Common Sorcerer Ответный удар X
+141100 Common Common Sorcerer Ответный удар XI
+141200 Common Common Sorcerer Ответный удар XII
+141300 Common Common Sorcerer Ответный удар XIII
 160100 Common Common Sorcerer Проклятие разложения I
 160200 Common Common Sorcerer Проклятие разложения II
 160300 Common Common Sorcerer Проклятие разложения III
@@ -3469,6 +4553,9 @@
 160700 Common Common Sorcerer Проклятие разложения VII
 160800 Common Common Sorcerer Проклятие разложения VIII
 160900 Common Common Sorcerer Проклятие разложения IX
+161000 Common Common Sorcerer Проклятие разложения X
+161100 Common Common Sorcerer Проклятие разложения XI
+161200 Common Common Sorcerer Проклятие разложения XII
 170100 Common Common Sorcerer Печать боли I
 170120 Common Common Sorcerer Печать боли I
 170200 Common Common Sorcerer Печать боли II
@@ -3481,6 +4568,12 @@
 170520 Common Common Sorcerer Печать боли V
 170600 Common Common Sorcerer Печать боли VI
 170620 Common Common Sorcerer Печать боли VI
+170700 Common Common Sorcerer Печать боли VII
+170720 Common Common Sorcerer Печать боли VII
+170800 Common Common Sorcerer Печать боли VIII
+170820 Common Common Sorcerer Печать боли VIII
+170900 Common Common Sorcerer Печать боли IX
+170920 Common Common Sorcerer Печать боли IX
 180100 Common Common Sorcerer Ледяное отступление I
 180200 Common Common Sorcerer Ледяное отступление II
 180300 Common Common Sorcerer Ледяное отступление III
@@ -3490,11 +4583,39 @@
 180700 Common Common Sorcerer Ледяное отступление VII
 180800 Common Common Sorcerer Ледяное отступление VIII
 180900 Common Common Sorcerer Ледяное отступление IX
-190100 Common Common Sorcerer Кража маны
-190110 Common Common Sorcerer Кража маны
-190111 Common Common Sorcerer Кража маны
-190112 Common Common Sorcerer Кража маны
-190113 Common Common Sorcerer Кража маны
+181000 Common Common Sorcerer Ледяное отступление X
+181100 Common Common Sorcerer Ледяное отступление XI
+181200 Common Common Sorcerer Ледяное отступление XII
+190100 Common Common Sorcerer Кража маны I
+190110 Common Common Sorcerer Кража маны I
+190111 Common Common Sorcerer Кража маны I
+190112 Common Common Sorcerer Кража маны I
+190113 Common Common Sorcerer Кража маны I
+190200 Common Common Sorcerer Кража маны II
+190210 Common Common Sorcerer Кража маны II
+190211 Common Common Sorcerer Кража маны II
+190212 Common Common Sorcerer Кража маны II
+190213 Common Common Sorcerer Кража маны II
+190300 Common Common Sorcerer Кража маны III
+190310 Common Common Sorcerer Кража маны III
+190311 Common Common Sorcerer Кража маны III
+190312 Common Common Sorcerer Кража маны III
+190313 Common Common Sorcerer Кража маны III
+190400 Common Common Sorcerer Кража маны IV
+190410 Common Common Sorcerer Кража маны IV
+190411 Common Common Sorcerer Кража маны IV
+190412 Common Common Sorcerer Кража маны IV
+190413 Common Common Sorcerer Кража маны IV
+190500 Common Common Sorcerer Кража маны V
+190510 Common Common Sorcerer Кража маны V
+190511 Common Common Sorcerer Кража маны V
+190512 Common Common Sorcerer Кража маны V
+190513 Common Common Sorcerer Кража маны V
+190600 Common Common Sorcerer Кража маны VI
+190610 Common Common Sorcerer Кража маны VI
+190611 Common Common Sorcerer Кража маны VI
+190612 Common Common Sorcerer Кража маны VI
+190613 Common Common Sorcerer Кража маны VI
 200100 Common Common Sorcerer Огненная завеса I
 200110 Common Common Sorcerer Огненная завеса I
 200200 Common Common Sorcerer Огненная завеса II
@@ -3505,8 +4626,20 @@
 200410 Common Common Sorcerer Огненная завеса IV
 200500 Common Common Sorcerer Огненная завеса V
 200510 Common Common Sorcerer Огненная завеса V
-210100 Common Common Sorcerer Нервное истощение
-210110 Common Common Sorcerer Нервное истощение
+200600 Common Common Sorcerer Огненная завеса VI
+200610 Common Common Sorcerer Огненная завеса VI
+200700 Common Common Sorcerer Огненная завеса VII
+200710 Common Common Sorcerer Огненная завеса VII
+200800 Common Common Sorcerer Огненная завеса VIII
+200810 Common Common Sorcerer Огненная завеса VIII
+210100 Common Common Sorcerer Нервное истощение I
+210110 Common Common Sorcerer Нервное истощение I
+210200 Common Common Sorcerer Нервное истощение II
+210210 Common Common Sorcerer Нервное истощение II
+210300 Common Common Sorcerer Нервное истощение III
+210310 Common Common Sorcerer Нервное истощение III
+210400 Common Common Sorcerer Нервное истощение IV
+210410 Common Common Sorcerer Нервное истощение IV
 220100 Common Common Sorcerer Огненное дыхание I
 220110 Common Common Sorcerer Огненное дыхание I
 220200 Common Common Sorcerer Огненное дыхание II
@@ -3515,11 +4648,22 @@
 220310 Common Common Sorcerer Огненное дыхание III
 220400 Common Common Sorcerer Огненное дыхание IV
 220410 Common Common Sorcerer Огненное дыхание IV
+220500 Common Common Sorcerer Огненное дыхание V
+220510 Common Common Sorcerer Огненное дыхание V
+220600 Common Common Sorcerer Огненное дыхание VI
+220610 Common Common Sorcerer Огненное дыхание VI
+220700 Common Common Sorcerer Огненное дыхание VII
+220710 Common Common Sorcerer Огненное дыхание VII
 230100 Common Common Sorcerer Истощение разума I
 230110 Common Common Sorcerer Истощение разума I
 230200 Common Common Sorcerer Истощение разума II
 230210 Common Common Sorcerer Истощение разума II
-240100 Common Common Sorcerer Дар скорости
+230300 Common Common Sorcerer Истощение разума III
+230310 Common Common Sorcerer Истощение разума III
+230400 Common Common Sorcerer Истощение разума IV
+230410 Common Common Sorcerer Истощение разума IV
+240100 Common Common Sorcerer Дар скорости I
+240200 Common Common Sorcerer Дар скорости II
 250100 Common Common Sorcerer Заточение I
 250110 Common Common Sorcerer Заточение I
 250200 Common Common Sorcerer Заточение II
@@ -3528,7 +4672,12 @@
 250310 Common Common Sorcerer Заточение III
 250400 Common Common Sorcerer Заточение IV
 250410 Common Common Sorcerer Заточение IV
-260100 Common Common Sorcerer Телепортация
+250500 Common Common Sorcerer Заточение V
+250510 Common Common Sorcerer Заточение V
+250600 Common Common Sorcerer Заточение VI
+250610 Common Common Sorcerer Заточение VI
+260100 Common Common Sorcerer Телепортация I
+260200 Common Common Sorcerer Телепортация II
 270100 Common Common Sorcerer Ледяная буря I
 270120 Common Common Sorcerer Ледяная буря I
 270200 Common Common Sorcerer Ледяная буря II
@@ -3537,12 +4686,26 @@
 270320 Common Common Sorcerer Ледяная буря III
 270400 Common Common Sorcerer Ледяная буря IV
 270420 Common Common Sorcerer Ледяная буря IV
-280100 Common Common Sorcerer Каменная кожа
-280150 Common Common Sorcerer Каменная кожа
+270500 Common Common Sorcerer Ледяная буря V
+270520 Common Common Sorcerer Ледяная буря V
+270600 Common Common Sorcerer Ледяная буря VI
+270620 Common Common Sorcerer Ледяная буря VI
+270700 Common Common Sorcerer Ледяная буря VII
+270720 Common Common Sorcerer Ледяная буря VII
+280100 Common Common Sorcerer Каменная кожа I
+280150 Common Common Sorcerer Каменная кожа I
+280200 Common Common Sorcerer Каменная кожа II
+280250 Common Common Sorcerer Каменная кожа II
+280300 Common Common Sorcerer Каменная кожа III
+280350 Common Common Sorcerer Каменная кожа III
+280400 Common Common Sorcerer Каменная кожа IV
+280450 Common Common Sorcerer Каменная кожа IV
 290100 Common Common Sorcerer Объятия водоворота I
 290120 Common Common Sorcerer Объятия водоворота I
-300100 Common Common Sorcerer Новая звезда
-310100 Common Common Sorcerer Искривляющий барьер
+290200 Common Common Sorcerer Объятия водоворота II
+290220 Common Common Sorcerer Объятия водоворота II
+300100 Common Common Sorcerer Новая звезда I
+310100 Common Common Sorcerer Искривляющий барьер I
 10100 Common Common Reaper Лязгающие косы I
 10101 Common Common Reaper Лязгающие косы I
 10102 Common Common Reaper Лязгающие косы I
@@ -3596,8 +4759,8 @@
 80130 Common Common Reaper Пила I
 80200 Common Common Reaper Пила II
 80230 Common Common Reaper Пила II
-90100 Common Common Reaper Безжалостный удар
-90130 Common Common Reaper Безжалостный удар
+90100 Common Common Reaper Безжалостный удар I
+90130 Common Common Reaper Безжалостный удар I
 100100 Common Common Reaper Удар маятника I
 100130 Common Common Reaper Удар маятника I
 100200 Common Common Reaper Удар маятника II
@@ -3618,9 +4781,9 @@
 120200 Common Common Reaper Призрачный шквал II
 120201 Common Common Reaper Призрачный шквал II
 120230 Common Common Reaper Призрачный шквал II
-130100 Common Common Reaper Смена мест
-130120 Common Common Reaper Смена мест
-130130 Common Common Reaper Смена мест
+130100 Common Common Reaper Смена мест I
+130120 Common Common Reaper Смена мест I
+130130 Common Common Reaper Смена мест I
 140100 Common Common Reaper Ответный удар I
 140200 Common Common Reaper Ответный удар II
 140300 Common Common Reaper Ответный удар III
@@ -3630,13 +4793,13 @@
 150280 Common Common Reaper Воздаяние II
 150300 Common Common Reaper Воздаяние III
 150380 Common Common Reaper Воздаяние III
-160100 Common Common Reaper Темная жатва
-170100 Common Common Reaper Дух-висельник
-170110 Common Common Reaper Дух-висельник
-180100 Common Common Reaper Бегство в тень
-200100 Common Common Reaper Бросок косы
-400100 Common Common Reaper Призрачный шаг
-400130 Common Common Reaper Призрачный шаг
+160100 Common Common Reaper Темная жатва I
+170100 Common Common Reaper Дух-висельник I
+170110 Common Common Reaper Дух-висельник I
+180100 Common Common Reaper Бегство в тень I
+200100 Common Common Reaper Бросок косы I
+400100 Common Common Reaper Призрачный шаг I
+400130 Common Common Reaper Призрачный шаг I
 10 Common Common Common Предмет для проверки умений
 1000000 Common Common Common Свиток охотника за монетами: 30% (1 час)
 1000001 Common Common Common Свиток Щедрости: 30% (1 час)
