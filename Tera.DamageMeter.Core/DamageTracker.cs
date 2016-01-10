@@ -14,7 +14,7 @@ namespace Tera.DamageMeter
     public class DamageTracker : IEnumerable<PlayerInfo>
     {
         public bool OnlyBosses { get; set; }
-
+        public bool IgnoreOneshots { get; set; }
         readonly Dictionary<Player, PlayerInfo> _statsByUser = new Dictionary<Player, PlayerInfo>();
         public DateTime? FirstAttack { get; private set; }
         public DateTime? LastAttack { get; private set; }
@@ -28,11 +28,12 @@ namespace Tera.DamageMeter
 
         }
 
-        public DamageTracker(bool onlyboss)
+        public DamageTracker(bool onlyboss,bool ignoreoneshots)
         {
             TotalDealt = new SkillStats();
             TotalReceived = new SkillStats();
             OnlyBosses = onlyboss;
+            IgnoreOneshots = ignoreoneshots;
         }
 
         private PlayerInfo GetOrCreate(Player player)
@@ -84,12 +85,14 @@ namespace Tera.DamageMeter
             if ((message.Source.RootOwner == message.Target.RootOwner) && (message.Damage > 0))
                 return result;
 
-            /// not count bosses
             NpcEntity npctarget = message.Target as NpcEntity;
-            if ((npctarget != null)&& OnlyBosses) { 
-                if (!npctarget.Info.Boss)
-                    return result;
-
+            if (npctarget != null) { 
+                if (OnlyBosses)       /// not count bosses
+                    if (!npctarget.Info.Boss)
+                        return result;
+                if (IgnoreOneshots)    /// ignore damage that is more than 10x times than mob's hp
+                    if (npctarget.Info.HP*10 <= message.Damage)
+                        return result;
             }
 
             result.Damage = message.Damage;

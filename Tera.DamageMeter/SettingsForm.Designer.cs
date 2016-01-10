@@ -40,6 +40,7 @@ namespace Tera.DamageMeter
             this.SettingsTabs = new System.Windows.Forms.TabControl();
             this.GeneralTab = new System.Windows.Forms.TabPage();
             this.OnlyBosses = new System.Windows.Forms.CheckBox();
+            this.IgnoreOneshots = new System.Windows.Forms.CheckBox();
             this.label4 = new System.Windows.Forms.Label();
             this.BufferSizeComboBox = new System.Windows.Forms.ComboBox();
             this.label2 = new System.Windows.Forms.Label();
@@ -130,6 +131,7 @@ namespace Tera.DamageMeter
             // GeneralTab
             // 
             this.GeneralTab.Controls.Add(this.OnlyBosses);
+            this.GeneralTab.Controls.Add(this.IgnoreOneshots);
             this.GeneralTab.Controls.Add(this.label4);
             this.GeneralTab.Controls.Add(this.BufferSizeComboBox);
             this.GeneralTab.Controls.Add(this.label2);
@@ -146,7 +148,7 @@ namespace Tera.DamageMeter
             // OnlyBosses
             // 
             this.OnlyBosses.AutoSize = true;
-            this.OnlyBosses.Location = new System.Drawing.Point(211, 16);
+            this.OnlyBosses.Location = new System.Drawing.Point(130, 16);
             this.OnlyBosses.Name = "OnlyBosses";
             this.OnlyBosses.Size = new System.Drawing.Size(146, 17);
             this.OnlyBosses.TabIndex = 5;
@@ -241,6 +243,16 @@ namespace Tera.DamageMeter
             this.PasteStatsHotKeyBox.TabIndex = 0;
             this.PasteStatsHotKeyBox.Text = "None";
             // 
+            // IgnoreOneshots
+            // 
+            this.IgnoreOneshots.AutoSize = true;
+            this.IgnoreOneshots.Location = new System.Drawing.Point(250, 16);
+            this.IgnoreOneshots.Name = "IgnoreOneshots";
+            this.IgnoreOneshots.Size = new System.Drawing.Size(132, 18);
+            this.IgnoreOneshots.TabIndex = 6;
+            this.IgnoreOneshots.Text = "Ignore oneshots";
+            this.IgnoreOneshots.UseVisualStyleBackColor = true;
+            // 
             // SettingsForm
             // 
             this.AcceptButton = this.OkButton;
@@ -280,5 +292,6 @@ namespace Tera.DamageMeter
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.ComboBox BufferSizeComboBox;
         private System.Windows.Forms.CheckBox OnlyBosses;
+        private System.Windows.Forms.CheckBox IgnoreOneshots;
     }
 }
