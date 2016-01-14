@@ -91,7 +91,7 @@ namespace Tera.DamageMeter
                     if (!npctarget.Info.Boss)
                         return result;
                 if (IgnoreOneshots)    /// ignore damage that is more than 10x times than mob's hp
-                    if ((npctarget.Info.HP > 0) && (npctarget.Info.HP * 10 <= message.Damage))
+                    if ((npctarget.Info.HP > 0) && (npctarget.Info.HP <= message.Damage/10))
                         return result;
             }
 
