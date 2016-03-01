@@ -17,11 +17,11 @@ namespace Tera.Data
 
         internal TeraData(BasicTeraData basicData, string region)
         {
-            Region = basicData.Regions.Single(x => x.Key == region);
-            SkillDatabase = new SkillDatabase(Path.Combine(basicData.ResourceDirectory, string.Format("skills-{0}.txt",region)));
-            NpcDatabase = new NpcDatabase(Path.Combine(basicData.ResourceDirectory, "npc-RU.txt"));
-//            NpcDatabase = new NpcDatabase(Path.Combine(basicData.ResourceDirectory, string.Format("npc-{0}.txt", region)));
-            OpCodeNamer = new OpCodeNamer(Path.Combine(basicData.ResourceDirectory, string.Format("opcodes-{0}.txt", Region.Version)));
+//            Region = basicData.Regions.Single(x => x.Key == region);
+            string suffix = (basicData.Language == "Auto") ? (region != "EU") ? region : "EU-EN" : basicData.Language;
+            SkillDatabase = new SkillDatabase(basicData.ResourceDirectory, suffix);
+            NpcDatabase = new NpcDatabase(basicData.ResourceDirectory, suffix);
+            OpCodeNamer = new OpCodeNamer(Path.Combine(basicData.ResourceDirectory, $"opcodes\\opcodes-{region}.txt"));
         }
     }
 }
