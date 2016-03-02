@@ -51,7 +51,7 @@ namespace Tera.DamageMeter
             _resetHotKey = new GlobalHotKey(_hotKeyManager);
             _resetHotKey.Pressed += ResetButton_Click;
 
-            _teraSniffer = new TeraSniffer(_basicTeraData.Servers);
+            _teraSniffer = new TeraSniffer(_basicTeraData.Servers,_settings.UseRaw);
             _teraSniffer.MessageReceived += message => InvokeAction(() => HandleMessageReceived(message));
             _teraSniffer.NewConnection += server => InvokeAction(() => HandleNewConnection(server));
             _teraSniffer.Warning += LogWarning;

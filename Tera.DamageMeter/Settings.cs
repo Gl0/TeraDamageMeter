@@ -23,6 +23,7 @@ namespace Tera.DamageMeter
         public bool AlwaysOnTop { get; set; }
         public bool OnlyBosses { get; set; }
         public bool IgnoreOneshots { get; set; }
+        public bool UseRaw { get; set; }
         public double Opacity { get; set; }
         public int? BufferSize { get; set; }
 
@@ -35,6 +36,7 @@ namespace Tera.DamageMeter
             Opacity = 1.0;
             OnlyBosses = false;
             IgnoreOneshots = true;
+            UseRaw = false;
         }
 
         public static Settings Load()

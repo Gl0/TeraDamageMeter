@@ -32,6 +32,7 @@ namespace Tera.DamageMeter
             Settings.AlwaysOnTop = AlwaysOnTopCheckbox.Checked;
             Settings.OnlyBosses = OnlyBosses.Checked;
             Settings.IgnoreOneshots = IgnoreOneshots.Checked;
+            Settings.UseRaw = UseRaw.Checked;
             Settings.Opacity = (double)OpacityTrackBar.Value / OpacityTrackBar.Maximum;
             Settings.HotKeys.PasteStats = HotKeyHelpers.ToString(PasteStatsHotKeyBox.Key);
             Settings.HotKeys.Reset = HotKeyHelpers.ToString(ResetHotKeyBox.Key);
@@ -52,6 +53,7 @@ namespace Tera.DamageMeter
 
             AlwaysOnTopCheckbox.Checked = Settings.AlwaysOnTop;
             OnlyBosses.Checked = Settings.OnlyBosses;
+            UseRaw.Checked = Settings.UseRaw;
             IgnoreOneshots.Checked = Settings.IgnoreOneshots;
             OpacityTrackBar.Value = (int)Math.Round(Settings.Opacity * OpacityTrackBar.Maximum);
             PasteStatsHotKeyBox.Key = HotKeyHelpers.FromString(Settings.HotKeys.PasteStats);
