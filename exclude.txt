@@ -2,4 +2,5 @@
 \copypaste-tuto\
 pets-skills
 icons.zip
+quests
 .git
