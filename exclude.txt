@@ -1,5 +1,6 @@
 \hotdot\
 \copypaste-tuto\
+\fonts\
 pets-skills
 icons.zip
 quests

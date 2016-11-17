@@ -1,7 +1,7 @@
 @echo off
 set output=.\release
 set source=.
-set variant=Debug
+set variant=Release
 rmdir /Q /S "%output%"
 md "%output%
 copy "%source%\Tera.DamageMeter\bin\%variant%\*" "%output%\"
@@ -10,3 +10,4 @@ xcopy /E /EXCLUDE:.\exclude.txt "%source%\resources" "%output%\resources\"
 del "%output%\SharpPcap.xml"
 del "%output%\PacketDotNet.xml"
 del "%output%\*.vshost*"
+del "%output%\*.pdb"
