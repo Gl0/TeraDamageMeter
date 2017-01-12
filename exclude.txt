@@ -5,3 +5,4 @@ pets-skills
 icons.zip
 quests
 .git
+smt_
