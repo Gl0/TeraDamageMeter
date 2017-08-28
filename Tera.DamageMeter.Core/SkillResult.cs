@@ -14,7 +14,7 @@ namespace Tera.DamageMeter
     {
         public DateTime Time { get; private set; }
 
-        public int Amount { get; private set; }
+        public long Amount { get; private set; }
         public Entity Source { get; private set; }
         public Entity Target { get; private set; }
         public bool IsCritical { get; private set; }
@@ -22,8 +22,8 @@ namespace Tera.DamageMeter
 
         public int SkillId { get; private set; }
         public Skill Skill { get; private set; }
-        public int Damage { get { return IsHeal ? 0 : Amount; } }
-        public int Heal { get { return IsHeal ? Amount : 0; } }
+        public long Damage { get { return IsHeal ? 0 : Amount; } }
+        public long Heal { get { return IsHeal ? Amount : 0; } }
 
 
         public Player SourcePlayer { get; private set; }
